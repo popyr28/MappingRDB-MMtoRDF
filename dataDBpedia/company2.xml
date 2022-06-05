@@ -1,0 +1,100 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="company"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/Esemka</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/Asian_Agri</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/Antara_(news_agency)</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/Cabe_Rawit_Marketing_Communications</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/CGV_Cinemas_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/The_Coffee_Club</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/Telkom_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/Mercedes-Benz_Distribution_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/Yupi_(confectioner)</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/Celebrity_Fitness</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/Royal_Wins</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/Ruangguru</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/Media_Nusantara_Citra</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/Aerowisata</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/Gojek</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/Matari_Advertising</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/Kreasi_Mandiri_Wintor_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/Produksi_Film_Negara</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/Kompas_Gramedia_Group</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/Bank_Kaltimtara</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/North_Sea_Boats</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/Fin_Komodo_Teknologi</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/Multistrada_Arah_Sarana</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/Lippo_Group</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/Sinar_Mas_Group</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/Gunung_Agung_(bookstore)</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/Telin</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/Sido_Muncul</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/PT_Petrokimia_Gresik</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/JD.ID</uri></binding>
+  </result>
+  <result>
+   <binding name="company"><uri>http://dbpedia.org/resource/OVO_(payment_service)</uri></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,2614 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="a"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Airlangga</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Al-Azhar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Albert_Einstein_College_of_Medicine</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Iaşi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/All_India_Institute_of_Medical_Sciences</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Internasional_Al-Madinah</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Amerika_di_Beirut</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Andalas</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Thessaloniki_Aristotle</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Kristen_Artha_Wacana</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Atma_Jaya_Jakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Atma_Jaya_Yogyakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Auburn</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Nasional_Australia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Negeri_Baku</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Teknologi_Bandung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Bar_Ilan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Barnard_College</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Bahasa_dan_Budaya_Beijing</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Benghazi_Military_University_Academy</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Ben-Gurion_Negev</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Bentley</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Teknologi_Berlin</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Bina_Nusantara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Komersial_Luigi_Bocconi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Brawijaya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Brown</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Kairo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Teknologi_California</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/California_State_University</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Negeri_California,_Long_Beach</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Carleton</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Carnegie_Mellon</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Kedokteran_dan_Farmasi_Carol_Davila</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Cenderawasih</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Charles_di_Praha</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Chung_Hua</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/College_of_Mount_Saint_Vincent</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Columbia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Complutense_Madrid</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Cornell</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Perguruan_Tinggi_Dartmouth</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Diponegoro</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Donghua</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Doshisha</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Teknologi_Dublin</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Durham</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Kristen_Duta_Wacana</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Eötvös_Loránd</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Elektronika_Negeri_Surabaya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Erasmus_Rotterdam</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Teknologi_Konfederasi_Zürich</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Negeri_Florida</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Bozen-Bolzano</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Gadjah_Mada</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Gallaudet</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_George_Washington</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Graduate_Institute_of_International_Studies</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Guru_Gobind_Singh_Indraprastha</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Haluoleo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Harvard</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Hasanuddin</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Ibrani_Yerusalem</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_HKBP_Nommensen</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Huaqiao</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Humboldt_Berlin</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Imam_Hossein</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Teknologi_India_Delhi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Advent_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Seni_Indonesia_Denpasar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Seni_Indonesia_Surakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Seni_Indonesia_Yogyakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Akuntansi_Negara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Pendidikan_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Inha</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Islam_Internasional_Malaysia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Islam_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Jagiellonian</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Islam_Negeri_Syarif_Hidayatullah_Jakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Negeri_Jakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Teologi_Jakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Jambi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Pemerintahan_John_F._Kennedy</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Katolik_Yohanes_Paulus_II_Lublin</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Teknologi_Kaiserslautern</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Keio</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Kim_Il-sung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Korea</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Kyoto</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Lambung_Mangkurat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Lampung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Metropolitan_Leeds</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Lehigh</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Leiden</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Loughborough</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Teknologi_Massachusetts</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_McGill</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Mercu_Buana_Jakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Teknologi_Michigan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Negeri_Moskwa_M._V._Lomonosov</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Klabat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhammadiyah_Magelang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhammadiyah_Makassar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Mulawarman</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Multimedia_Nusantara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Nagoya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Nanjing</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Teknologi_Nanyang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Nanzan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Nasional_Chung_Yang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Nasional_Formosa</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/National_Institute_of_Dramatic_Art</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Nasional_Taiwan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Nasional_San_Marcos</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Nasional_Singapura</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_New_York</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Wesleyan_Ohio</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Omar_Al-Mukhtar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Negeri_Oregon</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Osaka</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Pace</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Peking</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kolese_Kristen_Pensacola</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Persahabatan_Rakyat_Rusia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Kristen_Petra</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Kepausan_untuk_Ilmu_Pengetahuan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Kepausan_Yohanes_Paulus_II_untuk_Pengkajian_masalah_Pernikahan_dan_Keluarga</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Kepausan_Yohanes_Paulus_II</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Kepausan_Santo_Thomas_Aquinas</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Princeton</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Queen_Mary,_Universitas_London</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Teknologi_Queensland</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Riau</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Ritsumeikan_Asia_Pacific_University</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Ritsumeikan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Teknologi_Rochester</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Rockefeller</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Teknologi_Rhein_Westfalen_Aachen</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Santa_Clara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Roma_La_Sapienza</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Kristen_Satya_Wacana</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Soka</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/School_of_Oriental_and_African_Studies</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/School_of_Visual_Arts</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Sebelas_Maret</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Nasional_Seoul</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Singapore_Management_University</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Stanford</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Negeri_Gorontalo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Negeri_Makassar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Negeri_Malang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Negeri_Medan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Negeri_Padang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Negeri_Papua</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Negeri_Semarang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STIE_Trianandra_Jakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Stockholm</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/SUNY_Downstate_Medical_Center</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Perkapalan_Negeri_Surabaya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Swiss_German</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sydney_Institute_of_TAFE</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Syiah_Kuala</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Syracuse</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Tadulako</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Tanjungpura</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Tel_Aviv</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Manajemen_Telkom</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Temple</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/The_New_School</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Tisch_School_of_the_Arts</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Tohoku</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Tokushima_Bunri</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Tokyo_College_of_Music</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Pertanian_dan_Teknologi_Tokyo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Kajian_Asing_Tokyo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Trinity_Western</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Trisakti</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Trunojoyo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Manajemen_Anderson_UCLA</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Udayana</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Underwood_International_College</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Angkatan_Laut_Amerika_Serikat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Otonom_Santo_Domingo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Kristen_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Kristen_Krida_Wacana</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Methodist_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Nasional</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Terbuka</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Katolik_Sacro_Cuore</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Teknologi_Mara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Amsterdam</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Arizona</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Baghdad</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Barcelona</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Bologna</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Bonn</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Bukares</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_California,_Berkeley</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_California,_Riverside</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Cambridge</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Chicago</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Chili</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Cincinnati</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Kopenhagen</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Dar_es_Salaam</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Delhi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Dhaka</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Duisburg-Essen</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Firenze</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Georgia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Graz</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Greenland</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Haifa</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Hawaii</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Helsinki</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Illinois</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Innsbruck</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Insubria</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_KwaZulu-Natal</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Leeds</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_London</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Malta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Mataram</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Melbourne</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Mississippi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Sumatera_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Notre_Dame</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Nusa_Cendana</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Oregon</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Oslo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Oxford</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Padua</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Palangka_Raya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Pattimura</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Pembangunan_Nasional_Veteran</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Pisa</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Santiago_de_Chile</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/University_of_South_Carolina</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_California_Selatan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Surabaya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Sydney</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Tartu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/University_of_the_People</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Tokyo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Trento</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Torino</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Udine</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Wina</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Warsawa</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Washington</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Windsor</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Wisconsin–Madison</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Yangon</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Uppsala</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Negeri_Utah</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Utrecht</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Vilnius</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Waseda</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Weill_Cornell_Medical_College_of_Cornell_University</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Sains_Weizmann</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Wesleyan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/William_E._Macaulay_Honors_College</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Xiamen</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Yale</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_YARSI</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Yeshiva</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Yogyakarta_International_School</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STMIK_Muhammadiyah_Jakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Teknologi_Sepuluh_Nopember</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Siliwangi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Budi_Luhur</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Negeri_Jakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Pertanian_Bogor</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Sains_&amp;_Teknologi_AKPRIND</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Internasional_Batam</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Negeri_Yogyakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Manufaktur_Bandung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Setia_Budi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Pontianak</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Gunadarma</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Sanata_Dharma</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Filsafat_Driyarkara_Jakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Darul_&#39;Ulum</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Jenderal_Soedirman</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Winaya_Mukti_Sumedang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Darul_Ulum_Islamic_Center</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Widyatama</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Caltex_Riau</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Padjadjaran</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Bengkulu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Sriwijaya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Negeri_Surabaya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Negeri_Manado</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Malikussaleh</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Islam_Negeri_Sunan_Kalijaga_Yogyakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Islam_Nusantara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Teknik_Mesin_Industri_Surakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Bung_Hatta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Manajemen_Infomatika_dan_Teknik_Komputer_Surabaya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Teknologi_Medan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Islam_Sultan_Agung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Pasundan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Komunikasi_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Ahmad_Dahlan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STMIK_AMIKOM_Yogyakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STIE_Satria_Purwokerto</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/UIN_Maulana_Malik_Ibrahim_Malang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhammadiyah_Sumatera_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Abulyatama</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Al_Muslim</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Negeri_Medan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Negeri_Lhokseumawe</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Narotama</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Angkatan_Laut</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Islam_Bandung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Pendidikan_Ganesha</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Negeri_Bandung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_PGRI_Adi_Buana</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Pelita_Harapan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Seni_Indonesia_Bandung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Negeri_Andalas</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STMIK_Akakom</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Borneo_Tarakan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Teknologi_Nasional</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhammadiyah_Purwokerto</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Teknik-PLN</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Pertanian_Negeri_Payakumbuh</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Seni_Indonesia_Padang_Panjang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Negeri_Sriwijaya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Negeri_Lampung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Sultan_Ageng_Tirtayasa</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Negeri_Jember</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Negeri_Malang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Negeri_Bali</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Perikanan_Negeri_Tual</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Khairun</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Negeri_Ambon</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Pertanian_Negeri_Pangkajene_Kepulauan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Negeri_Makassar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Negeri_Manado</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Negeri_Pontianak</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Negeri_Banjarmasin</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Negeri_Samarinda</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Pertanian_Negeri_Samarinda</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Putra_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Manajemen_Informatika_dan_Teknik_Komputer_Stikom_Bali</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Iskandar_Muda</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Jabal_Ghafur</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhammadiyah_Aceh</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Samudra_Langsa</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Serambi_Mekkah</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Ratu_Samban</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Jenderal_Achmad_Yani</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Kristen_Maranatha</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Kebangsaan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Langlangbuana</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Al-Ghifari</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_ARS_Internasional</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Nasional_Pasim</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Teknologi_Harapan_Bangsa</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Teknologi_Sains_Bandung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Akmb_Bandung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Ganesha_Bandung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Garuda_Nusantara_Bandung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Indonesia_Jepang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Tidar_Magelang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STMIK_Mikroskil</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Teknik_Qomaruddin</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Ilmu_Ekonomi_IBBI</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Keuangan_dan_Perbankan_Padang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STIE_Keuangan_Perbankan_dan_Pembangunan_Padang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhammadiyah_Cirebon</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Pondok_Pesantren_Langitan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muslim_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Tarumanagara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STMIK_Pontianak</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Ilmu_Manajemen_Dhyana_Pura</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Malahayati</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Mahasaraswati_Denpasar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Bung_Karno</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhammadiyah_Malang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Kuningan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Ilmu_Politik_Paris</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STKIP_Muhammadiyah_Kotabumi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STIE_Perbanas_Jakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Katolik_Leuven</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STIE_YKPN</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Baiturrahmah</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Teknologi_Jakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Pemerintahan_Dalam_Negeri</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STIMIK_Perbanas</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Ciputra</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Presiden</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Loyola_Marymount</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Warmadewa</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Kesehatan_Yogyakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Politeknik_dan_Universitas_Negeri_Virginia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Islam_Assyafi%60iyah</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Islam_Sumatera_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_LPP_Yogyakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Kesejahteraan_Sosial</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Katolik_Widya_Mandala_Madiun</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Islam_Lamongan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/IAIN_Sunan_Ampel</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Al_Azhar_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Ilmu_Statistik</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Teknologi_Indonesia_Serpong</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Bhayangkara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Energi_dan_Mineral</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_45_Makassar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Teknik_Surabaya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Kadiri</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Ilmu_Kesehatan_Muhammadiyah_Banjarmasin</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Wijaya_Kusuma_Surabaya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Penerbangan_Indonesia_Curug</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Paramadina</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Sintuwu_Maroso</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Keguruan_Dan_Ilmu_Pendidikan_PGRI_Banjarmasin</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Pembangunan_Nasional_%22Veteran%22_Jakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Simalungun</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Kader_Bangsa</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Milano</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Batusangkar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Balikpapan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAI_Tiara_Jakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Galuh_Ciamis</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Teknologi_Kedirgantaraan_Yogyakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Ilmu_Sosial_dan_Ilmu_Politik_Yuppentek_Tangerang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Teknologi_Nasional_(Bandung)</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Kesehatan_Padang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STIE_Dwi_Sakti_Baturaja</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Manajemen_Informatika_dan_Komputer_YAPRI</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Manajemen_Transportasi_(STMT)_Trisakti</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Batam</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Pamulang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Pramita_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STKIP_PGRI_Lubuk_Linggau</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Ekasakti</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_PGRI_Yogyakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Bisnis_dan_Informatika_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Ilmu_Elektronika_dan_Komputer_Semarang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Katolik_Widya_Mandala_Surabaya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Teknik_Lingkungan_Mataram</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Tribhuwana_Tungga_Dewi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Manajemen_Informatika_dan_Komputer_Banjarbaru</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STMIK_CIC_Cirebon</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Ponorogo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STKIP_KIE_Raha_Ternate</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/IAIN_Surakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_17_Agustus_1945_Jakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_LP3I_Bandung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Ilmu_Komputer_Binaniaga_Bogor</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Mercu_Buana_Yogyakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Keuangan_dan_Perbankan_Riau</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STIE_Riau</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Surakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Maritim_Raja_Ali_Haji</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Sarjanawiyata_Tamansiswa</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STMIK_Jabar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STKIP_Muhammadiyah_Bone</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STKIP_Albana_Jakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Keperawatan_Bethesda_Yogyakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Lakidende</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Tulungagung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Wisnuwardhana_Malang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Pakuan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Borobudur</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muria_Kudus</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Sjakhyakirti</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Krisnadwipayana</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Garut</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Dayanu_Ikhsanuddin</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Bangka_Belitung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Salatiga</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bina_Sarana_Informatika_Jakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Manado</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Merdeka_Malang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Katolik_Soegijapranata</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Dr._Soetomo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STIE_PGRI_Sukabumi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhammadiyah_Yogyakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Ma_Chung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhammadiyah_Bengkulu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Curup</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Pariwisata_Bali</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Pancasakti</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STISIP_Panca_Bhakti_Palu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Teknologi_Kulit_Yogyakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_17_Agustus_1945_Surabaya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhammadiyah_Gresik</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Persada_Indonesia_YAI</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Al_Azhar_Medan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Komputer_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Mathla&#39;ul_Anwar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Islam_Jember</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Bahasa_Asing_Persahabatan_Internasional_Asia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Antakusuma</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Bahasa_Asing_Satya_Wacana</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Semarang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Pondok_Pesantren_La_Tansa</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STKIP_Setia_Budhi_Rangkasbitung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Kimia_Analisis_Bogor</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Sawunggalih_Aji</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STIE_Harapan_Kasih</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Sulawesi_Tenggara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Ibnu_Chaldun</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Mahasaraswati</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muslim_Nusantara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Respati_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Tamansiswa</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Flores</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Gunung_Rinjani</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Karo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_45_Mataram</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhammadiyah_Palu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Sahid</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Eka_Sakti</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Indonusa_Esa_Unggul</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Bunda_Mulia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Serang_Raya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Teknik_dan_Keselamatan_Penerbangan_Medan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Sekretari_Saint_Mary</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhammadiyah_Jember</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Paris_1_Panthéon-Sorbonne</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhammadiyah_Surakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Wijayakusuma_Purwokerto</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Teknologi_Nuklir</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Penyuluhan_Pertanian_Medan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Teknologi_Sulawesi_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Perikanan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Pimpinan_Perusahaan_Jakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/UIN_Sunan_Gunung_Djati</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Agama_Islam_Cipasung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Ilmu_Al-Qur&#39;an</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/IAIN_Ar-Raniry</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Pondok_Pesantren_Sidogiri</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Galuh</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Pondok_Pesantren_Assalam_Subang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Majelis_Rasulullah</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Dehasen</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STIA_Maulana_Yusuf_Banten</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STIE-IPWI_Jakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Jember</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Teknologi_Padang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Trinitas_Leeds</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/International_Design_School</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Teologi_Gereja_Kalimantan_Evangelis</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Suryadarma</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Technion</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Islam_Riau</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Putera_Batam</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STMIK_Putera_Batam</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STKIP_Banten</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Informatika_Del</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Pelita_Harapan_Surabaya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Teknologi_Industri_Padang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhammadiyah_Sumatera_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Teknologi_Yogyakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Teknik_Bina_Cendikia_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STIFI_Padang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Pembangunan_Laboratorium_UNP</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Pondok_Pesantren_Al-Quran_Babussalam</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Negeri_Kupang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Islam_Batik</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Pertanian_Negeri_Kupang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Pembangunan_Nasional_%22Veteran%22_Yogyakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Fakultas_Ekonomika_dan_Bisnis_UGM</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Indraprasta_PGRI</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STIE_Sakti_Alam_Kerinci</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/IAIN_Antasari</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Agama_Islam_Rasyidiyah_Khalidiyah</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Islam_Kalimantan_Muhammad_Arsyad_Al-Banjary</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Widya_Gama_Mahakam</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_17_Agustus_1945_Samarinda</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhammadiyah_Pontianak</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Panca_Bhakti</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Kesehatan_Kalimantan_Timur</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Purwokerto</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Pratama</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Teknologi_Sulawesi_(UTS)_Makasar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Satyagama</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/UIN_Sultan_Syarif_Kasim_Riau</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Jayabaya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Dian_Nuswantoro</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Achmad_Yani</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Kristen_Palangkaraya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Milano</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Nusantara_Manado</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Ilmu_Kesehatan_Suaka_Insan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Fakultas_Pertanian_Universitas_Lambung_Mangkurat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Fakultas_Matematika_dan_Ilmu_Pengetahuan_Alam_Universitas_Lambung_Mangkurat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Teknik_Arsitektur_YKPN_Yogyakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Tri_Dharma</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Kapuas_Sintang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Katolik_Widya_Mandira</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STIE_Perbanas_Surabaya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STIEI_Banda</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Kristen_Indonesia_Paulus</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Pandanaran</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Pembinaan_Masyarakat_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Medan_Area</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Widyagama</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Pawiyatan_Daha</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Atma_Jaya_Makassar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Ibnu_Khaldun</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Johns_Hopkins</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Taman_Siswa_Palembang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Dublin</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Pondok_Pesantren_Daarut_Tauhiid</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Jurai_Siwo_Metro</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhammadiyah_Parepare</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Sekretari_dan_Manajemen_Indonesia_Jayapura</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Teknik_Soroako</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Ilmu_Manajemen_Indonesia_Samarinda</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Ilmu_Ekonomi_Pancasetia_Banjarmasin</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Ilmu_Ekonomi_Boedi_Oetomo_Pontianak</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Pondok_Modern_Darul_Qiyam_Gontor_6</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Padang_Sidempuan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Syekh_M._Djamil_Djambek</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Kerinci</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/IAIN_Bengkulu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Syekh_Abdurrahman_Sidik</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Kudus</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Malikussaleh</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Pekalongan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Tulungagung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Kediri</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Jember</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Pamekasan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Palangka_Raya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Sultan_Sulaiman</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Datokarama_Palu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Watampone</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Parepare</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Palopo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Sultan_Qaimuddin</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Ternate</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Zawiyah_Cot_Kala_Langsa</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STMIK_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/IAIN_Raden_Intan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/JULISA</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Stikubank_Semarang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Ilmu_Kesehatan_Aisyiyah_Yogyakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhammadiyah_Buton</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Hukum_Garut</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sholeh_Hidayat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STMIK_Pelita_Nusantara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Usaha_Perikanan_Menengah_Tegal</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Pembangunan_Jaya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/SDIT_Al-Qomar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Ibn_Khaldun_Bogor</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Fakultas_Kedokteran,_Universitas_Diponegoro</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Perikanan_Kalinyamat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Ilmu_Ekonomi_Nahdlatul_Ulama_Jepara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Islam_Nahdlatul_Ulama</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Teknologi_Desain_Nahdlatul_Ulama</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Kebidanan_Al-Hikmah</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Bakrie</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Agama_Kristen_Protestan_Negeri_Tarutung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Sisingamangaraja_XII</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Keperawatan_Tarutung_Pemerintah_Kabupaten_Tapanuli_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Kebidanan_Pemerintah_Kabupaten_Tapanuli_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Agama_Kristen_Negeri_Toraja</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Agama_Kristen_Protestan_Negeri_Ambon</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Agama_Kristen_Negeri_Palangka_Raya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Agama_Kristen_Negeri_Manado</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Agama_Kristen_Protestan_Negeri_Sentani</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Agama_Kristen_Negeri_Denpasar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Fakultas_Perikanan_dan_Ilmu_Kelautan_Universitas_Lambung_Mangkurat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Mount_Sinai_School_of_Medicine</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Pariwisata_Pelita_Harapan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhammadiyah_Tangerang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Kagoshima</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Agama_Buddha_Negeri_Sriwijaya_Tangerang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Esa_Unggul</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Gajayana</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhammadiyah_Jakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STEI_Tazkia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Tulang_Bawang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Keuangan_dan_Perbankan_Mulia_Darma_Palembang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Baturaja</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Megow_Pak_Tulang_Bawang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Trunajaya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Palembang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Katolik_Santo_Thomas</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_19_November_Kolaka</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Pariwisata_AMPTA_Yogyakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhammadiyah_Gorontalo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhammadiyah_Kendari</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_PGRI_Palangka_Raya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Katolik_Darma_Cendika</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Putra_Bangsa</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Mahaputra_Muhammad_Yamin</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhammadiyah_Luwuk_Banggai</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhammadiyah_Mataram</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhammadiyah_Tapanuli_Selatan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhammadiyah_Palangka_Raya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhammadiyah_Sukabumi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhammadiyah_Surabaya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhammadiyah_Maluku_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Muhammadiyah_Magelang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Muhammadiyah_Pekalongan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Muhammadiyah_Tegal</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Islam_Malang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Islam_Al-Azhar_Mataram</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STKIP_Aisyiyah_Riau</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STKIP_Muhammadiyah_Barru</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STKIP_Muhammadiyah_Aceh_Barat_Daya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Teknologi_dan_Bisnis_Kalbe</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Keperawatan_Alkautsar_Temanggung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Agama_Islam_Nahdlatul_Ulama_Temanggung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Kanjuruhan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Nahdlatul_Ulama_Surakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Bahasa_dan_Budaya_Beijing</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Kesehatan_Denpasar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Manajemen_Informatika_dan_Komputer_Balikpapan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institute_for_Creation_Research</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Manufaktur_Negeri_Bandung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STMIK_Widya_Pratama_Pekalongan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Quality</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Fakultas_Kedokteran_Universitas_Mulawarman</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Islam_Madura_Pamekasan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Ilmu_Kereta_Api</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Fakultas_Hukum_Universitas_Mulawarman</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Pastoral_Tahasak_Danum_Pambelum</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Keperawatan_Bina_Insani_Sakti</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/AMIK_Mahaputra_Riau</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STMIK_Bina_Bangsa</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/AMIK_HASS_Bandung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Al-Qarawiyyin</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Agama_Hindu_Negeri_Tampung_Penyang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Jurusan_Teknik_Elektro_dan_Teknologi_Informasi_Universitas_Gadjah_Mada</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Negeri_Madiun</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/IKIP_PGRI_Madiun</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/FTI_UNISBANK</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Keumjeong</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Al-Fatah</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Sorong</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Hokkaido</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Massachusetts_Amherst</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Islam_Azad</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Massachusetts</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Technische_Hoogeschool_te_Bandoeng</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Musamus_Merauke</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bandung_Kogyo_Daigaku</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Teknik_Bandung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Dirosat_Islamiyah_Al-Amien</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STIT_Agus_Salim_Metro_Lampung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Ilmu_Keislaman_Annuqayah</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Tecnológico_de_Antioquia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Ilmu_Sosial_dan_Ilmu_Politik_Jakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STT_Migas</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Teknologi_Sumatera</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Kota_Malang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Technische_Faculteit,_Nood-Universiteit_van_Nederlandsch_Indie</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universiteit_van_Indonesie_te_Bandoeng</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Indonesia_Bandung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Islam_Sumatera_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Ilmu_Ekonomi_Prasetiya_Mulya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STIKES_Katolik_St._Vincentius_a_Paulo_Surabaya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STAIN_Gajah_Putih_Takengon</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STKIP_Muhammadiyah_Kuningan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Informatika_dan_Bisnis_Darmajaya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Pantheon-Assas</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STMIK_SPB_Airlangga_Samarinda</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Ilmu_Hukum_Manokwari</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Teknik_dan_Keselamatan_Penerbangan_Makassar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Teknik_dan_Keselamatan_Penerbangan_Surabaya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Sultan_Mahesa</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/SMP_Negeri_2_Cicurug</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Teknologi_Pulp_dan_Kertas</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Gladiresik_Music_Lab</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Pertahanan_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Politeknik_Marche</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Lembah_Aosta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_L&#39;Aquila</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Bari</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Politeknik_Bari</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Basilicata</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Bergamo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Brescia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Ferrara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Foggia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Niccolò_Cusano</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Cagliari</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Calabria</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Twente</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Jurusan_Arkeologi_Universitas_Gadjah_Mada</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Transportasi_Darat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Hannover</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Edinburgh</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Ekonomi_Islam_Al-Ishlah</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/ASM_Santa_Maria_Semarang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/AMIK_Garut</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Informatika_dan_Komputer_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Pendeta_HKBP_Seminarium_Sipoholon</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akademi_Keperawatan_HKBP_Balige</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STMIK_Jayanusa</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Komando_Pendidikan_Angkatan_Udara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Teologi_HKBP_Pematangsiantar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Guru_HKBP_Seminarium_Sipoholon</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Bibelvrouw_HKBP_Laguboti</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Fordham</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Cooper_Union</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Sisingamangaraja_XII_Tapanuli_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Manajemen_Informatika_dan_Komputer_Sisingamangaraja_XII</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Teologi_Sabaidah_Siborongborong</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Darma_Agung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Sains_dan_Teknologi_TD_Pardede</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_California,_Los_Angeles</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/SMA_Bina_Insani</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Masjid_Jami_Al-Juman</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muara_Bungo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_TEDC</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Institut_Bisnis_Nusantara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Persada_Indonesia_Y.A.I</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Kesehatan_Jakarta_III</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Fakultas_Hukum_Universitas_Pattimura</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STIMIK_ESQ_Business_School</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Prima_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Lancang_Kuning</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Komputer_Magway</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Islam_OKI</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Surya_University</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Muhadi_Setiabudi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Siswa_Bangsa_Internasional</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Tanri_Abeng</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/MIT_Sloan_School_of_Management</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Nurtanio_Bandung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Teologi_Amanat_Agung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Janabadra</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Fakultas_Hukum_Universitas_Lambung_Mangkurat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Fakultas_Ekonomi_Universitas_Lambung_Mangkurat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Fakultas_Keguruan_dan_Ilmu_Pendidikan_Universitas_Lambung_Mangkurat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Fakultas_Kedokteran_Universitas_Lambung_Mangkurat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Fakultas_Kedokteran_Universitas_Kristen_Krida_Wacana</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Negeri_Media_Kreatif</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Fajar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Teknologi_Nasional</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Politeknik_Kesehatan_Surakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Program_Studi_Sastra_Tionghoa_Universitas_Kristen_Petra</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Program_Studi_Teknik_Sipil_Universitas_Kristen_Petra</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Program_Studi_Teknik_Arsitektur_Universitas_Kristen_Petra</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Program_Studi_Teknik_Elektro_Universitas_Kristen_Petra</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Program_Studi_Teknik_Industri_Universitas_Kristen_Petra</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Program_Studi_Teknik_Mesin_Universitas_Kristen_Petra</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Program_Studi_Teknik_Informatika_Universitas_Kristen_Petra</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Program_Akuntansi_Bisnis_Universitas_Kristen_Petra</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Program_Akuntansi_Pajak_Universitas_Kristen_Petra</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Program_Manajemen_Bisnis_Universitas_Kristen_Petra</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Program_Manajemen_Perhotelan_Universitas_Kristen_Petra</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Program_Manajemen_Kepariwisataan_Universitas_Kristen_Petra</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Ilmu_Administrasi_Yappi_Makassar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Pancasila</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Penyuluhan_Pertanian_Bogor</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Islam_Labuhan_Batu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STIE_Inaba</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STMIK_Sumedang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STMIK_Adhi_Guna</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Ilmu_Komputer_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Sains_dan_Teknologi_Jayapura</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sekolah_Tinggi_Teknologi_Pekanbaru</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Lembaga_Ilmu_Pengetahuan_Islam_dan_Arab</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Drama_magnificat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Tun_Abdul_Razak</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kolese_Universitas_Internasional_INTI</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Internasional_Jepang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Indonesia</uri></binding>
+  </result>
+ </results>
+</sparql>

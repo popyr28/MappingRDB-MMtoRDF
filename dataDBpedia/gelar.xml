@@ -1,0 +1,226 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="a"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Gelar_akademik</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Astronomi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Sains_Terapan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Biologi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kimia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Doktor</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bahasa_Inggris</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Hukum</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Magister</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Matematika</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Fisika</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bahasa_Sanskerta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Universitas_Oxford</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Geografi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kategori:Gelar_akademik</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Perguruan_tinggi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Skripsi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Pendidikan_Islam</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Karya_ilmiah</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Komputer</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Ekonomi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Pendidikan_Sekolah_Dasar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Pasca_sarjana</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Berkas:Sarjana.JPG</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Pertanian</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Ilmu_Politik</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Sastra</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Administrasi_Bisnis</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Agama</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Akuntansi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Arsitektur</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Desain</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Ekonomi_Asuransi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Ekonomi_Islam</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Farmasi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Filsafat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Filsafat_Islam</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Hukum_Islam</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Humaniora</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Ilmu_Gizi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Ilmu_Kelautan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Ilmu_Keluarga_dan_Konsumen</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Ilmu_Komunikasi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Ilmu_Perpustakaan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Ilmu_Perpustakaan_dan_Informasi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Intelijen</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Kedokteran</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Komunikasi_Islam</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Komunikasi_dan_Pengembangan_Masyarakat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Kehutanan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Kedokteran_Gigi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Kedokteran_Hewan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Keperawatan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Kesehatan_Masyarakat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Manajemen</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Pariwisata</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Pendidikan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Pendidikan_Sains</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Perikanan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Peternakan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Psikologi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Sains</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Sistem_Informasi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Studi_Islam</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Ilmu_Sosial</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Sosial_Islam</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Seni</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Teknologi_Pertanian</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Teknik</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Teologi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Teologi_Islam</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Hukum_Sipil</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sarjana_Seni_Musik</uri></binding>
+  </result>
+ </results>
+</sparql>

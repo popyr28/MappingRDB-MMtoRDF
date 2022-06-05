@@ -1,0 +1,130 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="province"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Aceh</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Bali</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Kepulauan_Bangka_Belitung</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Banten</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Bengkulu</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Jawa_Tengah</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Kalimantan_Tengah</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Sulawesi_Tengah</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Jawa_Timur</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Nusa_Tenggara_Timur</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Gorontalo</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Daerah_Khusus_Ibukota_Jakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Jambi</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Maluku</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Maluku_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Sulawesi_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Sumatera_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Riau</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Kepulauan_Riau</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Kalimantan_Selatan</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Sumatera_Selatan</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Daerah_Istimewa_Yogyakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Jawa_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Kalimantan_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Nusa_Tenggara_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Papua_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Sulawesi_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Sumatera_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Lampung</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Kalimantan_Timur</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Sulawesi_Selatan</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Papua</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Sulawesi_Tenggara</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Kalimantan_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Provinsi_Dak_Lak</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Banten</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Jawa_Timur</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Daerah_Khusus_Ibukota_Jakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Sumatera_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Jawa_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="province"><uri>http://id.dbpedia.org/resource/Sumatera_Barat</uri></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,1396 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="a"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/3M</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/7-Eleven</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Accor</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Acura</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Adecco</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/A.D._Vision</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Agence_France-Presse</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Agfa-Gevaert</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/AGL_Energy</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bank_Pertanian_Cina</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Airbus</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Airports_Authority_of_India</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/American_Express</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/American_Motors</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Antonov</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Applebee&#39;s</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Apple_Store</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Arcelor_Mittal</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/ArmaLite</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Asus</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/AT&amp;T</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Audi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Auto_Union</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/AXA</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Ayam_brand</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/BAE_Systems</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Baidu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bajaj_Auto</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Banco_Bilbao_Vizcaya_Argentaria</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bank_Brasil</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Banco_Sabadell</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bank_Mandiri</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bank_of_America</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bank_of_America_Merrill_Lynch</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bank_of_Ceylon</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bank_of_China</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bank_of_Communications</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bank_Permata</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Barclays</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Barclays_Capital</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Baskin-Robbins</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/BBC</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Beiersdorf</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Being_(perusahaan)</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/BitDefender</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/BMW</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/BRAC_Bank</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/BreadTalk</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/British_Motor_Corporation</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bugatti</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bugatti_Automobiles_SAS</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Buick</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/BYD_Automobile</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Škoda_Auto</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Canadian_Imperial_Bank_of_Commerce</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/CapitaLand</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Carl_Zeiss_AG</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Carvel</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Caterpillar_Inc.</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Chang&#39;an_Motors</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Chery</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/China_CITIC_Bank</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/China_Construction_Bank</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/China_Post</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/China_Telecom</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Church&#39;s_Chicken</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/CIBC_World_Markets</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Cisco_Systems</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Citrix_Systems</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Commerzbank</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Construcciones_y_Auxiliar_de_Ferrocarriles</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Corbis</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Costa_Cruises</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Costco</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Cowon</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/CozyCot</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Cube_Entertainment</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Dabur</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Daihatsu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Daimler-Benz</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Datsun</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/DBS_Bank</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Pabrik_Degtyarev</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Delahaye</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Dell</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Deutsche_Bank</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Deutsche_Telekom</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Dish_TV</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Disney_Interactive_Studios</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Domino&#39;s_Pizza</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Dresdner_Kleinwort</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Ducati_Corse</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/DuPont</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Vereenigde_Oostindische_Compagnie</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/EarthLink</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Eastern_Bank_Limited</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Perusahaan_Hindia_Timur_Britania</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Elpida_Memory</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Eni</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Etienne_Aigner</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Eu_Yan_Sang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/ExxonMobil</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Fairchild_Semiconductor</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/FAMAE</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Ferrari</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Fiat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Finmeccanica</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Foxconn</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Freeport-McMoRan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Freescale_Semiconductor</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/FremantleMedia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Fujitsu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Gainax</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Studio_Gallop</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/General_Dynamics</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Genii_Capital</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Google</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Great_Eastern_Life</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Great_Wall</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Groupe_Danone</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Haier</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Harland_and_Wolff</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/HDFC_Bank</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Herbalife</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Hindustan_Aeronautics_Limited</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Holden</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Honeywell</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Horch</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Housing_Development_Finance_Corporation</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/HSBC</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/HTC_Corporation</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Hugo_Boss</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Hummel_International</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/3_(telekomunikasi)</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Hyundai</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Hyundai_Motor_Company</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Hyundai_Rotem</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Ibanez</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Iberdrola</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/IBM</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/ICICI_Bank</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Imperial_Airways</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Industrial_and_Commercial_Bank_of_China</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Infosys</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Intel_Corporation</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Intuit</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Islami_Bank_Bangladesh_Limited</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Itaú_Unibanco</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/IZhMASh</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Jaguar_(perusahaan_otomotif)</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/JPMorgan_Chase</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/J.P._Morgan_&amp;_Co.</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Hotel_JW_Marriott</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/JYP_Entertainment</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kaspersky_Lab</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kelme</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/KFC</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Koenigsegg</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Lamborghini</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Lehman_Brothers</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Lenovo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Lonely_Planet</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Long_John_Silver&#39;s</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Yayasan_Lontar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Lowe&#39;s</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Lukoil</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Macquarie_Group</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Mahanagar_Telephone_Nigam_Limited</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Mark_Levinson</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Martin_Marietta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Maruti_Suzuki</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Maserati</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Mayo_Clinic</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Mercedes_AMG_High_Performance_Powertrains</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/MetLife</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Micro-Star_International</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Mikoyan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Mizuho_Financial_Group</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Monsanto</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Movado</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/National_Australia_Bank</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/National_Semiconductor</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/NetApp</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Netcars</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Netflix</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Netscape</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/NeXT</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Nintendo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Nissan_Motors</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Nokia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Northrop_Grumman</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Novotel</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/NXP_Semiconductors</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Oldsmobile</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Olivetti</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Optus_Television</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Oreo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Semen_Padang_(perusahaan)</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Petronas</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Pindad</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Pioneer_Corporation</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Pirelli</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Plymouth_(perusahaan_otomotif)</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/PNC_Financial_Services</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Polaroid_Corporation</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Porsche</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/POSBank</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Prada</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Procter_&amp;_Gamble</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Punjab_National_Bank</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Qimonda</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Quattro_GmbH</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Qwest</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Raidió_Teilifís_Éireann</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Red_Bull_GmbH</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Relativity_Media</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Renault</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Renault_Samsung_Motors</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Renesas_Electronics</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rheinmetall</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rickenbaker</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rolls-Royce_Motor_Cars</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rosneft</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Royal_Mail</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rusal</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/RWE</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Samsung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Samsung_(telekomunikasi)</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Grupo_Santander</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Saovang_Rubber_Company</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Schneider_Electric</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Scion_(mobil)</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bursa_efek_Singapura</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Hynix</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Skulls_Unlimited_International</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Société_Bic</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/SoftBank_Mobile</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sonali_Bank</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sony_Alpha</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sony/ATV_Music_Publishing</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/SpaceX</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Spyker_Cars</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/SsangYong</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Standard_Chartered</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Starbucks</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/State_Bank_of_India</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/STMicroelectronics</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Subaru</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sun_Microsystems</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Taco_Bell</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Telefónica</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Teva_Pharmaceutical_Industries</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Texas_Instruments</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Gereja_Yesus_Kristus_dari_Orang-orang_Suci_Zaman_Akhir</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/The_Coca-Cola_Company</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/The_Coffee_Bean_&amp;_Tea_Leaf</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/The_Hershey_Company</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Thomson_Reuters</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Tokyo_Electric_Power_Company</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Toshiba</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Tula_Arms_Plant</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/TV_Asahi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/TVS_Motor</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Unilever</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/United_Artists</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Unocal_Corporation</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Verizon_Communications</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Vespa</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Vibram</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Vodafone</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Wanderer</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Warner_Music_Group</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Wataniya_Telecom</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Wendy&#39;s</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Hotel_Westin</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Westpac</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/White_Star_Line</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Winchester_Repeating_Arms_Company</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/World_Wrestling_Entertainment</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Yahoo!</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Yamaha</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Yamaha_Motor_Company</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/YG_Entertainment</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rolls-Royce</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Microsoft</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sony_Mobile_Communications</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Canon_(perusahaan)</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/SAIC_Motor</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Semen_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Holcim_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Walmart</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/NIIT</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bank_Jatim</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Visa_Inc.</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Trans_Corp</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/ABS-CBN_Corporation</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Yayasan_Bunda_Hati_Kudus</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Pembangkitan_Jawa-Bali</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Parmalat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Repsol_YPF</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Saab_Automobile</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sinar_Sosro</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bank_BJB</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/S.M._Entertainment</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Semen_Baturaja</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/BlackBerry_(perusahaan)</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Arun_Natural_Gas_Liquefaction</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Daimler_AG</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Swissôtel</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Badan_Penerbit_Kristen_Gunung_Mulia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kalbe_Nutritionals</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Cable_TV_Wakasa_Obama</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Royal_Bank_of_Scotland_Group</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Visi_Media_Asia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Funimation_Entertainment</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Olympic_Group</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bukit_Asam</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Cartier_SA</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bank_Nagari</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bankaltim</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Klip_Plastik</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Angkasa_Pura_I</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Yayasan_Tanggul_Bencana_di_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Giant_(toko_swalayan)</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Yayasan_Asti_Dharma</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Wall&#39;s</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Transformational_Defense_Industries</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/MD_Music</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Beijing_Automobile_Works</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Republic_of_Gamers</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Foton_(perusahaan_otomotif)</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/IHE_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/United_Overseas_Bank</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bwin</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/CNET_Networks</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/AIA_Financial</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Agrani_Bank</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bonsoni</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Artistdirect</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Renault_Sport_F1</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Schweizerische_Industrie_Gesellschaft</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Valmet</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Mitre</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Joma</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Gajah_Tunggal</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Yayasan_Theresia_Pora_Plate</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bharat_Sanchar_Nigam_Limited</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kawai</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Corning</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Marshall_Amplification</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Saban_Capital_Group</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Volkswagen_Commercial_Vehicles</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/FAW_Group</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/AvtoVAZ</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Lejel_Broadcasting_System</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Woollim_Entertainment</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rovio_Entertainment</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Tim_Hortons</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Tokyu_Corporation</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Open_World_Entertainment</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Discover_Card</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Hang_Seng_Bank</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/A.T._Kearney</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Amuse,_Inc.</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Ubisoft</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/TS_Entertainment</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/AKS</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Skype_Technologies</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bursa_Saham_Italia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/BPRS_Bhakti_Sumekar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/UniCredit</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bolsas_y_Mercados_Españoles</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Burberry</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Marvell_Technology_Group</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/PLUS_Expressway_Berhad</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bursa_Saham_Madrid</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Allied_Irish_Banks</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/National_Irish_Bank</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Ulster_Bank</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Lancome</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Viki_(perusahaan)</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/DQS</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Longines</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Massachusetts_Mutual_Life_Insurance_Company</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Yayasan_Marsudirini</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Enstrom_Helicopter_Corporation</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Swiss_Arms</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Margono_Mega_Transport</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Banco_Galliano</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Mango_(pakaian)</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rockstar_North</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Firestone_Tire_and_Rubber_Company</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Casumina</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Ainol</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bloomberg_L.P.</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Perusahaan_Hindia_Timur_Perancis</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Geoctroyeerde_Westindische_Compagnie</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Tata_Starbucks</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Tazo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Evolution_Fresh</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Barnes_&amp;_Noble</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Tata_Global_Beverages</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Tata_Coffee</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Fnac</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Diedrich_Coffee</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/AFC_Enterprises</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Ahold</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Teavana</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Pupuk_Indonesia_Holding_Company</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kellogg_Company</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Peet&#39;s_Coffee_&amp;_Tea</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Union_Bank_N.A.</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/UnionBanCal_Corporation</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Nabisco</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/East_Dawning</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Ezaki_Glico</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Facebook,_Inc.</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Lloyd&#39;s_of_London</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Tune_Hotels</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Österreichische_Bundesbahnen</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Star_Empire_Entertainment</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Almaz-Antey</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rockstar_Games</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Elbit_Systems</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/MBDA</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sean_Cody</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kink.com</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Harris_Corporation</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Hess_Corporation</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Halliburton</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Marathon_Oil</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Marathon_Petroleum</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Shanghai_International_Port_(Group)</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Shanghai_Petrochemical</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Shanghai_Pudong_Development_Bank</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Shanghai_Zhenhua_Heavy_Industries</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Honda_Racing_Corporation</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Yupi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Global_Asia_Prima_Coalindo_Mining</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Make-up_Art_Cosmetics</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Crypton_Future_Media</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/J.C.Staff</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/TNA_Wrestling</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Juventus_F.C.__S.p.A__1</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/S.S._Lazio__S.S._Lazio__1</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/S.S._Lazio__SpA__1</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Hard_Rock_Cafe</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bank_Fama_Internasional</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Planet_Hollywood</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Nescafé</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/China_Merchants_Bank</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Akrapovič</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Vizio</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Avolon</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Want_Want</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Aerowisata</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Nuvoton</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Artha_Graha_Peduli_Foundation</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/3M</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/7-Eleven</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Bank_Permata</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/BMW</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Daihatsu</uri></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,3559 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="Concept"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Company</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Activity</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Name</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Person</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Actor</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Place</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Publisher</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Genre</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Language</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Department</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Software</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/School</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Type</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ClubMoss</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/AustralianFootballTeam</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/CricketTeam</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/FieldHockeyLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MilitaryPerson</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/VolleyballLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Ambassador</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Amphibian</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Archaea</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/BeachVolleyballPlayer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Bone</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Canal</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Canoeist</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Cardinal</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Castle</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Cave</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ChristianPatriarch</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Cinema</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/College</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Colour</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ComedyGroup</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ComicStrip</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ConcentrationCamp</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Conifer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Continent</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Crustacean</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Entomologist</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Fashion</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Fern</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/FormerMunicipality</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/FormulaOneRacer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Fungus</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Garden</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/GolfCourse</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/GreenAlga</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Guitarist</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Ligament</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Lighthouse</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Lymph</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Mineral</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/NationalCollegiateAthleticAssociationAthlete</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Racecourse</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Rower</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Sea</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Senator</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SumoWrestler</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Vein</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/VoiceActor</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Volcano</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/AnimangaCharacter</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/WaterwayTunnel</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Image</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Airline</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Bank</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/BasketballLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/HandballLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/IceHockeyLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Locomotive</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MusicGenre</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ReligiousBuilding</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/RoadTunnel</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Saint</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Single</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SpaceShuttle</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/University</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/AmericanFootballLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MusicFestival</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SpeedwayTeam</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/LaunchPad</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SoftballLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SpaceStation</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/TennisLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Gnetophytes</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/BritishRoyalty</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/AcademicJournal</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/AdministrativeRegion</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Aircraft</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Airport</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Album</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/AmericanFootballPlayer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/AmusementParkAttraction</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Anime</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Artist</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ArtistDiscography</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Artwork</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Asteroid</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Athlete</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Automobile</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/AutomobileEngine</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Award</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Band</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/BaseballSeason</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/BasketballTeam</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Beverage</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/BodyOfWater</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Book</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Bridge</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/BroadcastNetwork</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Building</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/BusCompany</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ChemicalCompound</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/City</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/CityDistrict</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ClassicalMusicComposition</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Cleric</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Comic</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ComicsCharacter</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Convention</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Criminal</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/CultivatedVariety</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/CyclingRace</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/CyclingTeam</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Device</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Disease</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Drug</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Earthquake</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Election</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Engine</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Enzyme</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/EthnicGroup</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/EurovisionSongContestEntry</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Event</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Film</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/FilmFestival</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Food</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/FootballLeagueSeason</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/FootballMatch</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Game</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/GolfTournament</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/GovernmentAgency</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/GrandPrix</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/HistoricBuilding</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/HistoricPlace</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/HockeyTeam</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Holiday</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/HollywoodCartoon</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/HorseRace</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Hospital</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Hotel</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/HumanGene</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/InformationAppliance</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Lake</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Legislature</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Library</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Magazine</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Manga</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MilitaryConflict</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MilitaryStructure</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MilitaryUnit</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MixedMartialArtsEvent</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Monument</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MotorsportSeason</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Mountain</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Museum</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Musical</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MusicalArtist</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/NCAATeamSeason</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/NationalFootballLeagueSeason</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Newspaper</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Olympics</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Organisation</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Outbreak</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Pandemic</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Park</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/PersonFunction</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Philosopher</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Planet</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Plant</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Play</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/PoliticalFunction</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/PoliticalParty</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Politician</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/PowerStation</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ProgrammingLanguage</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ProtectedArea</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Protein</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/RacingDriver</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/RadioHost</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/RadioProgram</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/RadioStation</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/RailwayLine</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/RecordLabel</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Religious</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Reptile</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ResearchProject</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Restaurant</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Road</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/RoadJunction</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/RollerCoaster</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Royalty</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/RugbyClub</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/RugbyLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/RugbyPlayer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Sales</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Settlement</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Ship</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ShoppingMall</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SoccerClub</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SoccerClubSeason</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SoccerLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SoccerTournament</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Song</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Sound</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SpaceMission</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SportsEvent</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SportsSeason</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SportsTeam</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SportsTeamMember</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Star</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Station</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SupremeCourtOfTheUnitedStatesCase</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/TelevisionEpisode</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/TelevisionSeason</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/TelevisionShow</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/TelevisionStation</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/TennisTournament</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Tenure</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Theatre</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/TopLevelDomain</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Town</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/TradeUnion</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Train</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Venue</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/VideoGame</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Village</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Weapon</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Website</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/WomensTennisAssociationTournament</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/WrestlingEvent</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Writer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/WrittenWork</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Year</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/YearInSpaceflight</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/InlineHockeyLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/RaceTrack</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Tower</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/GovernmentalAdministrativeRegion</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Instrumentalist</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Municipality</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/BoxingLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/BowlingLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/CurlingLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Agent</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Animal</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ArchitecturalStructure</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Biomolecule</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Broadcaster</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Cartoon</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Case</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/CelestialBody</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ChemicalSubstance</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Document</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/EducationalInstitution</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Eukaryote</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/FictionalCharacter</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Gene</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/GridironFootballPlayer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Group</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Identifier</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Infrastructure</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/LegalCase</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MeanOfTransportation</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MotorsportRacer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MusicalWork</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/NaturalEvent</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/NaturalPlace</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/OrganisationMember</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/PeriodicalLiterature</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/PopulatedPlace</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Presenter</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Project</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/PublicTransitSystem</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Race</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Region</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/RouteOfTransportation</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SocietalEvent</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Species</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SportsClub</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SportsLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SportsTeamSeason</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/TimePeriod</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Tournament</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/UnitOfWork</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Work</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/AcademicConference</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/AdultActor</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/AmateurBoxer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/AnatomicalStructure</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Arachnid</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Archbishop</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Architect</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Artery</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Astronaut</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/AustralianFootballLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/AustralianRulesFootballPlayer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/AutoRacingLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Bacteria</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/BadmintonPlayer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/BaseballPlayer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/BasketballPlayer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/BeautyQueen</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/BiologicalDatabase</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Bodybuilder</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Boxer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Brain</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Brewery</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/BusinessPerson</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/CareerStation</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Cheese</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Chef</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ChessPlayer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ChristianBishop</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ClassicalMusicArtist</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/CollegeCoach</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/CombinationDrug</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Comedian</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ComicsCreator</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Congressman</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Country</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Crater</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/CricketGround</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Cricketer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Curler</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Currency</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Cyclist</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Dam</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/DartsPlayer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Economist</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Engineer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/FashionDesigner</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/FigureSkater</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Fish</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/FormulaOneTeam</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/GaelicGamesPlayer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Galaxy</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/GivenName</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Glacier</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/GolfPlayer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Governor</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Grape</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Gymnast</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/HandballPlayer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/HandballTeam</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Historian</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/HistoricalEvent</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Horse</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/HorseTrainer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/IceHockeyPlayer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Insect</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Island</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Jockey</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Journalist</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/LacrossePlayer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/LawFirm</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Mammal</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MartialArtist</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Mayor</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Medician</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MemberOfParliament</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MilitaryService</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MixedMartialArtsLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Model</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Mollusca</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MonoclonalAntibody</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Motorcycle</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MotorcycleRacingLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MotorcycleRider</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MountainPass</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Muscle</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MythologicalFigure</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/NascarDriver</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/NationalFootballLeagueEvent</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Nerve</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/NetballPlayer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Noble</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Painter</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Photographer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Poem</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Poet</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/PokerPlayer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/PoloLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/President</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Priest</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/PrimeMinister</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Prison</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/RailwayStation</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/RailwayTunnel</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/River</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Rocket</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Scientist</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ScreenWriter</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SiteOfSpecialScientificInterest</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Skater</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SkiArea</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Skier</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Skyscraper</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SnookerPlayer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SoapCharacter</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SoccerManager</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SoccerPlayer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SpeedwayRider</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Sport</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SquashPlayer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Stadium</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Swimmer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/TableTennisPlayer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/TelevisionHost</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/TennisPlayer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Tunnel</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/VolleyballPlayer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/WineRegion</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Winery</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/WorldHeritageSite</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Wrestler</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Youtuber</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Battery</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Bird</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Chancellor</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/CricketLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/GolfLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Judge</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/LacrosseLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/OlympicEvent</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/PlayboyPlaymate</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SpeedwayLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/WaterRide</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ClericalAdministrativeRegion</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/انتظامی_علاقہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/AmericanFootballCoach</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/BaseballLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Bay</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/CanadianFootballLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Diocese</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Embryology</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/HorseRider</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SnookerChamp</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Surname</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/VolleyballCoach</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MedicalSpecialty</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Constellation</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/TopicalConcept</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کھیلوں_کی_انجمن</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Moss</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/VideogamesLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Vaccine</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/AmericanFootballTeam</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Baronet</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/BaseballTeam</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Novel</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Pope</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Cycad</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/FloweringPlant</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Database</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SportFacility</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Stream</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Coach</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SportsManager</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/WinterSportPlayer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Ginkgo</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SnookerWorldRanking</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SolarEclipse</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SportCompetitionResult</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Non-ProfitOrganisation</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ArtificialSatellite</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Monarch</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MountainRange</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/OfficeHolder</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Spacecraft</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Valley</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Academic</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/AcademicSubject</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Agglomeration</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Algorithm</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Altitude</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/AmericanLeader</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Annotation</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Archeologist</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ArcherPlayer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Archipelago</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Area</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Arena</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Aristocrat</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Arrondissement</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Article</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ArtisticGenre</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Athletics</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/AthleticsPlayer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Atoll</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Attack</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/BackScene</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Beach</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Beer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Biathlete</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Biologist</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Blazon</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/BloodVessel</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/BoardGame</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/BobsleighAthlete</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/BrownDwarf</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Browser</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/BullFighter</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Camera</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/CanadianFootballPlayer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/CanadianFootballTeam</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Canton</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Cape</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Capital</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/CapitalOfRegion</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/CardGame</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/CardinalDirection</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Casino</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Cat</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Caterer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Cemetery</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ChartsPlacements</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ChemicalElement</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ChristianDoctrine</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Church</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Cipher</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ClericalOrder</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/CoalPit</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/CollectionOfValuables</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Community</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Competition</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Contest</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ControlledDesignationOfOriginWine</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ConveyorSystem</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/CountrySeat</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Covid19</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/CrossCountrySkier</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/CyclingCompetition</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/CyclingLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/DBpedian</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/DTMRacer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Dancer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Deanery</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Decoration</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Deity</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Demographics</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Depth</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Deputy</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Desert</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/DigitalCamera</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Dike</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Diploma</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/DisneyCharacter</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/District</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/DistrictWaterBoard</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/DocumentType</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Dog</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Drama</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Egyptologist</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ElectionDiagram</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ElectricalSubstation</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Employer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/EmployersOrganisation</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Escalator</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Factory</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Family</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Farmer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Fencer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/File</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/FileSystem</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Flag</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Forest</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/FormulaOneRacing</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Fort</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/GatedCommunity</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/GeneLocation</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/GeologicalPeriod</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/GeopoliticalOrganisation</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Globularswarm</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/GovernmentCabinet</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/GovernmentType</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/GraveMonument</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/GrossDomesticProduct</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/GrossDomesticProductPerCapita</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Guitar</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/HighDiver</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/HistoricalAreaOfAuthority</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/HistoricalCountry</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/HistoricalDistrict</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/HistoricalPeriod</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/HistoricalProvince</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/HistoricalRegion</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/HistoricalSettlement</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/HockeyClub</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Hormone</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/HotSpring</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/HumanGeneLocation</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Humorist</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Ideology</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Infrastucture</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Instrument</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Intercommunality</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/InternationalFootballLeagueEvent</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/InternationalOrganisation</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/JewishLeader</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/LatterDaySaint</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Law</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Lawyer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Letter</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Lieutenant</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/LifeCycleEvent</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/LightNovel</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/LineOfFashion</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Linguist</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Lipid</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/List</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/LiteraryGenre</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Locality</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Lock</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/LunarCrater</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Man</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Manhua</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Manhwa</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Manor</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MathematicalConcept</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Media</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Medicine</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Meeting</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MemberResistanceMovement</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Memorial</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MetroStation</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MicroRegion</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MilitaryAircraft</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MilitaryVehicle</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Mill</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Mine</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Minister</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MobilePhone</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Monastery</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Mosque</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MotocycleRacer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MotorRace</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MouseGene</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MouseGeneLocation</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MovieDirector</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MovieGenre</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MovingImage</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MovingWalkway</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MultiVolumePublication</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Murderer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MusicComposer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/MusicDirector</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/NarutoCharacter</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/NationalAnthem</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/NationalSoccerClub</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/NaturalRegion</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Nebula</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/NobelPrize</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/NobleFamily</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/NordicCombined</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/NuclearPowerStation</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Ocean</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/OldTerritory</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/OlympicResult</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/On-SiteTransportation</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Openswarm</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Opera</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Organ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/OverseasDepartment</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/PaintballLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Painting</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Parish</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Parliament</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/PenaltyShootOut</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/PeriodOfArtisticStyle</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/PersonalEvent</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Pharaoh</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/PhilosophicalConcept</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Pilot</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/PlayWright</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/PoliceOfficer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/PoliticalConcept</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/PoliticianSpouse</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Polysaccharide</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Population</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Port</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Prefecture</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/PrehistoricalPeriod</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Pretender</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Producer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Profession</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Professor</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Protocol</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ProtohistoricalPeriod</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Province</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Psychologist</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/PublicService</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Pyramid</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Quote</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/RadioControlledRacingLeague</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/RallyDriver</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Rebbe</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Rebellion</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/RecordOffice</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Referee</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Reference</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Reign</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Relationship</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ReligiousOrganisation</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/RestArea</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Resume</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Robot</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/RocketEngine</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/RomanEmperor</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/RouteStop</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Sailor</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SambaSchool</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Satellite</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ScientificConcept</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Sculptor</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Sculpture</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SerialKiller</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Shrine</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Singer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SkiResort</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Ski_jumper</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SoccerLeagueSeason</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SongWriter</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SpeedSkater</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Spreadsheet</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Spy</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Square</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Standard</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/StarCluster</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/State</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/StatedResolution</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Statistic</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/StillImage</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/StormSurge</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Street</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SubMunicipality</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Surfer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Swarm</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Synagogue</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/SystemOfLaw</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Tank</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Tax</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Taxon</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/TeamMember</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/TeamSport</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/TelevisionDirector</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Temple</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/TermOfOffice</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Territory</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/TheatreDirector</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/TheologicalConcept</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/TrackList</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/TrainCarriage</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Tram</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/TramStation</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Treadmill</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Treaty</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/UndergroundJournal</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Unknown</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/VaccinationStatistics</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Vicar</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/VicePresident</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/VicePrimeMinister</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Vodka</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/WaterPoloPlayer</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/WaterTower</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Watermill</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/WikimediaTemplate</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/WindMotor</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Windmill</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Wine</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Woman</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/Zoo</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ɡrāpانگور</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/آب_و_تاب</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/آبادی_والی_جگہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/آبادی_والی_جگہ۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/آجر</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/آرٹ_ورک۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/آرٹیکل</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/آرچبی_شاپ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/آرچر_پلیئر</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/آرکیا</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/آرکیا۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/آسمانی_جسم</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/آسٹریلوی_رولز_فٹ_بال_پلیئر</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/آسٹریلوی_فٹ_بال_ٹیم</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/آسٹریلوی_فٹ_بال_کی_انجمن</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/آلہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/آٹوموبائل_انجن</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/اجسامِ_آب</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/اداکار</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ارضیاتی_دورانیہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/اسپورٹس_لیگ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/اسپورٹس_ٹیم_سیزن۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/اشرافیہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/اعضاء_کی_خوراک</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/اعلی_درجےکاموسیقی_فنکار</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/اعلی_پانی_میں_ڈبکی_لگانے_والا</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/اقتدارکا_تاریخی_علاقہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/البم</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/امریکن_فٹ_بال_لیگ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/امریکن_فٹ_بال_ٹیم</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/امریکن_فٹ_بال_ٹیم۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/امریکن_فٹ_بال_کوچ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/امریکن_فٹ_بال_کوچ۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/امریکی_فٹ_بال_کھلاڑی</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/امفبیئن</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/انتخابات</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/انتخابات_کا_خاکہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/انجن</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/انعام</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/انگور</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/انیمنگا_کردار</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/اٹول</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ایئر_لائن</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ایتھلیٹکس</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ایجنٹ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/بائیتھلیٹ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/بادشاہی</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/باسکٹ_بال_لیگ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/باسکٹ_بال_کھلاڑی</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/باسکٹ_بال_کی_جماعت</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/باغ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/بالنگ_ٹیموں_کی_انجمن</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/باہمی_مقابلہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/براعظم</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/براڈکاسٹ_نیٹ_ورک</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/برطانوی_بادشاہی</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/برف_کا_تودہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/برقی_ذیلی_مرکز</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/بس_كا_تجارتي_إدارة</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/بستی</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/بغیر_پُہولوں_کا_سدا_بہار_پودا</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/بلدیہ۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/بلندی</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/بلی</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/بلیزن</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/بند</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/بنیادی_ڈھانچہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/بوبسلیگ_ایتھلیٹ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/بورڈ_کھیل</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/بھورا_بونا</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/بیس_بال_لیگ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/بیس_بال_کا_موسم</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/بیس_بال_کا_کھلاڑی</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/بیس_بال_کی_جماعت</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/بیل_کا_مُقابلہ_کرنے_والا</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/بیماری</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/بینک</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/بیٹری</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/بیچ_والی_بال_پلیئر</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/بیڈمنٹن_کا_کھلاڑی</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/بیکٹیریا</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/تاریخی_آبادکاری</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/تاریخی_تعمیر</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/تاریخی_دور</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/تاریخی_صوبہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/تاریخی_ضلع</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/تاریخی_علاقہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/تاریخی_مقام</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/تاریخی_ملک۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/تاریخی_واقعہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/تاش</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/تجارتی_ادارہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/تحریری_کام۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/تربیت_کرنے_والا</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/تشریح</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/تصویر_کھینچنے_کا_آلہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/تعلیمی_ادارے</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/تعلیمی_مضمون</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/تعلیمی_کانفرنس</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/تعمیراتی_ڈھانچہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/تعمیراتی_ڈھانچے</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/تفریحی_پارک_کی_کشش</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/تقریب</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/تن_ساز</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/تنظیم</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/تنظیم۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/تِجارتی_اِدارہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/تھن_والے_جانور</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/تیغ_زن</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ثانوی_سیاره</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/جانور</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/جرمن_ٹورنگ_کار_ماسٹرزریسر</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/جزیرہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/جزیرہ_نما</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/جسمانی_ساخت</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/جسمانی_ساخت۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/جنکگو۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/جنگل</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/جنینیات_کا_علم</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/جُغرافیائی_سیاسیات_تنظیم</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/جگہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/جگہ۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/جھنڈا</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/جی_ایم_ایل:_خصوصیت</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/جیو:_مقامی_چیزیں</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/حاکم</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/حساب_و_شمار</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/حملہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/حکومت_کی_قسم</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/حکومتی_انتظامی_علاقہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/حیاتیاتی&#39;ریکارڈرز_پر_مبنی_ایک_فائل&#39;</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/حیاتیاتی_ریکارڈرز_پر_مبنی_ایک_فائل</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/حیاتیاتی_مرکبات</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/خامرہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/خاندان</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/خلا_باز</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/خلوی_مادہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/خلیج</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/خول_دارجانور</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/خون_کی_شریان</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/خیالی_کردار</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/دستاویز</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/دماغ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/دوا</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/دوڑ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/دیا_گیا_نام</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/رقبہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/رقص_کرنے_والا</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/رنگ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/رواں_زینہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/روشِ_لباس</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ریکارڈرز_پر_مبنی_ایک_فائل</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ریگستان</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/زلزلہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/سائفر</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/سائنسدان</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/سائیکل_سوار_کی_جماعت</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/سائیکل_سوار۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/سائیکلنگ_مقابلہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/سائیکلنگ_ٹیم</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/سابقہ_میونسپلٹی</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ساحل_سمندر</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ساز</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/سازندہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ساز۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/سبز_طحالب</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ستار</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ستارہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/سجاوٹ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/سرمائی_کھیل_کھیلنے_والا</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/سرکاری_محکمہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/سرگرمی</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/سفیر</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/سنیما</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/سپورٹس_سیزن۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/سکہ_رائج_الوقت</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/سیاستدان</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/شخص</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/شریان</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/شطرنج_کا_کھلاڑی</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/شعبہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/شوقیہ_باکسر</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/شہر</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/شہر_کا_ضلع</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/صنف</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/صنوبر_کی_قِسم_کا_پودا</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/صوبہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ضلع</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ضِلَع</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/علاقہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/علاقے_کا_دارالحکومت</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/علمی_انتظامی_علاقہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/عمارت</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/عمید_کا_عہدہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/عنکبات</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/عوامی_راہداری_کا_نظام</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/عیسائی_پادری</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/غول</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/غول۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/فائل</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/فائل_سسٹم</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/فارمولا_ون_ریسر</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/فارمولا_ون_ریسنگ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/فارمولا_ون_ریسنگ۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/فارمولا_ون_ٹیم</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/فارمولا_ون_ٹیم۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/فرانس_کا_انتظامی_ضلع</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/فرن</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/فلم</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/فلمی_میلہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/فنکار</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/فنکارانہ_صنف</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/فوجی_ڈھانچہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/فٹ_بال_لیگ_سیزن۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/فٹ_بال_لیگ_کے_موسم</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/فٹ_بال_مقابلہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/فگر_سکیٹر۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/فگرسکیٹر</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/قبر_کی_یادگار</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/قبرستان</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/قدرتی_جگہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/قدرتی_جگہ۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/قدرتی_واقعہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/قسم</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/قلعہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/قیمتی_اشیاء_کا_مجموعہ۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/لانچ_پیڈ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ماہر_آثار_قدیمہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ماہر_حیاتیات</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ماہر_فنیات</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ماہر_مصریات</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ماہر_معاشیات</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/مجرم</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/مجلس</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/مجلس_کے_شرکاء</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/مجموعہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/مجموعی_ملکی_پیداوار</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/مجموعی_گھریلو_پیداوار_فی_کس</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/محفوظ_شدہ_دستاویزات</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/مدرسہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/مذہبی_عمارت۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/مزاحیہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/مزاحیہ_تخلیق_کار۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/مزاحیہ_گروہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/مشروب</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/مصنف</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/مصنوعی_سیارہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/معاشرتی_واقعہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/معاملہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/معمار</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/مقابلہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/مقابلہ_میں_کاریں_چلانے_والے</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/مقامی_تھنگ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ملازمین_کی_تنظیم</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ملک</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ملک_کی_نشست</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ملکہ_حسن</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/منشیات_کا_مجموعہ۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/موبائل_فونز</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/مورخ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/موسیقی_چارٹس_میں_جگہ۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/موسیقی_کا_فنکار</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/موسیقی_کا_کام</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/موضوع_کا_تصور</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/موٹر_کار_کی_دوڑ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/مُضحِکہ_خیزکردار</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/مچھلی</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/مکے_باز</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/مکے_بازی_کھیل_کی_انجمن</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/میدان</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/میدان۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ناشَر</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/نام</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ناٹک</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ندی</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/نسلی_گروہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/نشریاتی_جال</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/نقل_و_حمل_کا_راستہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/نقل_و_حمل_کے_ذرائع</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/نقل_و_حمل_کے_ذرائع۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/نقل_و_حمل_کے_نظام</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/نمائندہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/نيزہ_باز</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/نَسبہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/نَسبہ_کا_مقام</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/نِشانہ_بازی</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/نہر</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/والی_بال_پلیئر۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/وزراء_کی_کابینہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/وقت_کی_مدت</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ونٹر_اسپورٹ_پلیئر۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ٹٹولنے_والا</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/پادری</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/پانی_کا_ضلعی_اقتدار</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/پتھر_کنڈلی_کھيل_کی_انجمن</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/پرجاتی</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/پرجاتیوں</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/پرندہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/پس_منظر</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/پل</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/پنڈال</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/پنیر</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/پودا</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/پوشاک_ساز</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/پھولوں_کا_پودا</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/پھُرتیلاکھلاڑی</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/پھُپھُوندی</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/چرچ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/چھوٹا_نواب</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/چھٹی</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/چینی_درخت_پنکھے_کے_جیسے_پتوں_والا</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ڈی_بی_پیڈین</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کارخانه</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کاروباری_شخص</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کارٹون</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کارٹون_کا_کردار</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کارٹون۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کاشت_شدہ_مختلف_قسم۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کام</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کام_کی_اکائی</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کتا</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کتاب</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کرسچن_بی_کی_دکان</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کروی_غول</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کرکٹ_انجمن</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کرکٹ_کا_میدان</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کرکٹر</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کسان</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کسرتی</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کسی_شخص_(جاگیردار)_یا_سرکاری_ادارے_کے_دائرہ_اختیار_کا_قدیم_علاقہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کشودرگرہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کورونا_وائرس2019</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کَشید_گاہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کِسی_موقع_مقام_پر_نقل_و_حمل</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کِسی_موقع_مقام_پر_نقل_و_حمل۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کھانا</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کھلاڑی</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کھیل</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کھیل_کی_جماعت</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کھیل_کی_سہولت</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کھیل_کی_ٹیم</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کھیل_کی_ٹیم_کا_موسم</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کھیل_ہاکی_ٹیموں_کا_گروہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کھیلوں_کا_موسم</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کھیلوں_کا_کلب</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کھیلوں_کی_تقریب</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کھیلوں_کی_لیگ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کہکشاں</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کیریئر_سٹیشن</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کیسینو</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کیمیائی_عنصر</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کیمیائی_مادہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کیمیائی_مادہ۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کیمیائی_مرکب</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کینیڈین_فٹ_بال_لیگ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کینیڈین_فٹ_بال_ٹیم۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کیٹرر</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/کیپ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/گالف_کا_میدان</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/گالف_کا_کھلاڑی</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/گالف_کی_انجمن</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/گانا</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/گانے_والوں_کا_گروہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/گاڑی</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/گاڑیوں_کی_ریسوں_کی_انجمن</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/گاڑیوں_کے_مقابلے_کا_کھیل</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/گرم_پانی_کا_قدرتی_چشمہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/گرم_پانی_کاقدرتی_چشم</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/گروہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/گرڈیرون_فٹ_بال_کھلاڑی</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/گمٹیلا_پودا.</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/گولف_کا_باہمی_مقابلہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/گٹار_بجانے_والا</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/گھوڑا</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/گھوڑا_دوڑ_میں_مقابلہ_کرنا</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/گھوڑا_سدھانے_والا</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/گھڑ_سوار</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/گیلک_کھیل_کا_کھلاڑی</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/گیلک_گیم_پلیئر۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/گیٹڈ_برادری</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ہارمون</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ہالی_ووڈ_کارٹون</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ہاکی_ٹیم</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ہاکی_کلب</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ہاکی_کھیل_کی_جماعت</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ہسپتال۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ہلکی_شراب</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ہوا_کی_سمت</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ہوائی_اڈہ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ہوائی_جہاز</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ہڈی</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ہینڈ_بال_ٹیم</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ہینڈ_بال_کا_کھلاڑی</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/ہینڈ_بال_کی_انجمن</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/یادگار</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/یوروویژن_گانا_مقابلہ_اندراج</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/یوکاریوٹ</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/یوکاریوٹ۔</uri></binding>
+  </result>
+  <result>
+   <binding name="Concept"><uri>http://dbpedia.org/ontology/یوکرائٹ۔</uri></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,103 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="subject"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Jambi</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bali</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Banten</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/West_Nusa_Tenggara</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/West_Sumatra</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Aceh</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bengkulu</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Central_Java</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Central_Kalimantan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Central_Sulawesi</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Maluku_(province)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/North_Maluku</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Papua_(province)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/West_Papua_(province)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Lampung</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Riau</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Riau_Islands</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/North_Kalimantan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/North_Sulawesi</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/North_Sumatra</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bangka_Belitung_Islands</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/East_Java</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/East_Kalimantan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/East_Nusa_Tenggara</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Southeast_Sulawesi</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/West_Kalimantan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Gorontalo</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Special_Region_of_Yogyakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/West_Sulawesi</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/South_Sumatra</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/South_Kalimantan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/South_Sulawesi</uri></binding>
+  </result>
+ </results>
+</sparql>

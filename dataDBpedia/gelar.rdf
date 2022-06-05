@@ -1,0 +1,225 @@
+<rdf:RDF xmlns:res="http://www.w3.org/2005/sparql-results#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:Description rdf:nodeID="rset">
+<rdf:type rdf:resource="http://www.w3.org/2005/sparql-results#ResultSet" />
+    <res:resultVariable>a</res:resultVariable>
+    <res:solution rdf:nodeID="r0">
+      <res:binding rdf:nodeID="r0c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Gelar_akademik"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r1">
+      <res:binding rdf:nodeID="r1c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Astronomi"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r2">
+      <res:binding rdf:nodeID="r2c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Sains_Terapan"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r3">
+      <res:binding rdf:nodeID="r3c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Biologi"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r4">
+      <res:binding rdf:nodeID="r4c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Kimia"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r5">
+      <res:binding rdf:nodeID="r5c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Doktor"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r6">
+      <res:binding rdf:nodeID="r6c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Bahasa_Inggris"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r7">
+      <res:binding rdf:nodeID="r7c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Hukum"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r8">
+      <res:binding rdf:nodeID="r8c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Magister"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r9">
+      <res:binding rdf:nodeID="r9c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Matematika"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r10">
+      <res:binding rdf:nodeID="r10c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Fisika"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r11">
+      <res:binding rdf:nodeID="r11c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Bahasa_Sanskerta"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r12">
+      <res:binding rdf:nodeID="r12c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Universitas_Oxford"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r13">
+      <res:binding rdf:nodeID="r13c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Geografi"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r14">
+      <res:binding rdf:nodeID="r14c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Kategori:Gelar_akademik"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r15">
+      <res:binding rdf:nodeID="r15c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Perguruan_tinggi"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r16">
+      <res:binding rdf:nodeID="r16c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Skripsi"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r17">
+      <res:binding rdf:nodeID="r17c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Pendidikan_Islam"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r18">
+      <res:binding rdf:nodeID="r18c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Karya_ilmiah"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r19">
+      <res:binding rdf:nodeID="r19c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Komputer"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r20">
+      <res:binding rdf:nodeID="r20c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Ekonomi"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r21">
+      <res:binding rdf:nodeID="r21c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Pendidikan_Sekolah_Dasar"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r22">
+      <res:binding rdf:nodeID="r22c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Pasca_sarjana"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r23">
+      <res:binding rdf:nodeID="r23c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Berkas:Sarjana.JPG"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r24">
+      <res:binding rdf:nodeID="r24c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Pertanian"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r25">
+      <res:binding rdf:nodeID="r25c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Ilmu_Politik"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r26">
+      <res:binding rdf:nodeID="r26c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Sastra"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r27">
+      <res:binding rdf:nodeID="r27c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Administrasi_Bisnis"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r28">
+      <res:binding rdf:nodeID="r28c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Agama"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r29">
+      <res:binding rdf:nodeID="r29c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Akuntansi"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r30">
+      <res:binding rdf:nodeID="r30c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Arsitektur"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r31">
+      <res:binding rdf:nodeID="r31c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Desain"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r32">
+      <res:binding rdf:nodeID="r32c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Ekonomi_Asuransi"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r33">
+      <res:binding rdf:nodeID="r33c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Ekonomi_Islam"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r34">
+      <res:binding rdf:nodeID="r34c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Farmasi"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r35">
+      <res:binding rdf:nodeID="r35c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Filsafat"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r36">
+      <res:binding rdf:nodeID="r36c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Filsafat_Islam"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r37">
+      <res:binding rdf:nodeID="r37c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Hukum_Islam"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r38">
+      <res:binding rdf:nodeID="r38c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Humaniora"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r39">
+      <res:binding rdf:nodeID="r39c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Ilmu_Gizi"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r40">
+      <res:binding rdf:nodeID="r40c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Ilmu_Kelautan"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r41">
+      <res:binding rdf:nodeID="r41c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Ilmu_Keluarga_dan_Konsumen"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r42">
+      <res:binding rdf:nodeID="r42c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Ilmu_Komunikasi"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r43">
+      <res:binding rdf:nodeID="r43c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Ilmu_Perpustakaan"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r44">
+      <res:binding rdf:nodeID="r44c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Ilmu_Perpustakaan_dan_Informasi"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r45">
+      <res:binding rdf:nodeID="r45c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Intelijen"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r46">
+      <res:binding rdf:nodeID="r46c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Kedokteran"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r47">
+      <res:binding rdf:nodeID="r47c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Komunikasi_Islam"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r48">
+      <res:binding rdf:nodeID="r48c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Komunikasi_dan_Pengembangan_Masyarakat"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r49">
+      <res:binding rdf:nodeID="r49c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Kehutanan"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r50">
+      <res:binding rdf:nodeID="r50c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Kedokteran_Gigi"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r51">
+      <res:binding rdf:nodeID="r51c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Kedokteran_Hewan"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r52">
+      <res:binding rdf:nodeID="r52c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Keperawatan"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r53">
+      <res:binding rdf:nodeID="r53c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Kesehatan_Masyarakat"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r54">
+      <res:binding rdf:nodeID="r54c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Manajemen"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r55">
+      <res:binding rdf:nodeID="r55c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Pariwisata"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r56">
+      <res:binding rdf:nodeID="r56c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Pendidikan"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r57">
+      <res:binding rdf:nodeID="r57c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Pendidikan_Sains"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r58">
+      <res:binding rdf:nodeID="r58c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Perikanan"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r59">
+      <res:binding rdf:nodeID="r59c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Peternakan"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r60">
+      <res:binding rdf:nodeID="r60c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Psikologi"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r61">
+      <res:binding rdf:nodeID="r61c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Sains"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r62">
+      <res:binding rdf:nodeID="r62c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Sistem_Informasi"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r63">
+      <res:binding rdf:nodeID="r63c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Studi_Islam"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r64">
+      <res:binding rdf:nodeID="r64c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Ilmu_Sosial"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r65">
+      <res:binding rdf:nodeID="r65c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Sosial_Islam"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r66">
+      <res:binding rdf:nodeID="r66c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Seni"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r67">
+      <res:binding rdf:nodeID="r67c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Teknologi_Pertanian"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r68">
+      <res:binding rdf:nodeID="r68c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Teknik"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r69">
+      <res:binding rdf:nodeID="r69c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Teologi"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r70">
+      <res:binding rdf:nodeID="r70c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Teologi_Islam"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r71">
+      <res:binding rdf:nodeID="r71c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Hukum_Sipil"/></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r72">
+      <res:binding rdf:nodeID="r72c0"><res:variable>a</res:variable><res:value rdf:resource="http://id.dbpedia.org/resource/Sarjana_Seni_Musik"/></res:binding>
+    </res:solution>
+  </rdf:Description>
+</rdf:RDF>

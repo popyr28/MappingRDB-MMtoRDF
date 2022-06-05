@@ -1,0 +1,3106 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="subject"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Teluk</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kerinci_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Jambi_(city)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Batang_Hari_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tempino</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/West_Tanjung_Jabung_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bungo_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bejubang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Betung</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Muarabulian</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/East_Tanjung_Jabung_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sarolangun_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Talangpelempang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Selat</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tebo_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Jangga</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Jebak</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Muaro_Jambi_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kinati</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kuap</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ampelu</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Durianluncuk</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Singkatigedang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Paalmerah</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sungai_Penuh</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Lubukrusa</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kermio</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pematangpayung</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Muaraketalo</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Muarasingoan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Padangkelapa</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pinangtinggi</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ujung</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Karangasem_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kintamani,_Bali</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kuta</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sanur,_Bali</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sayan,_Bali</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Lovina_Beach</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Mangupura</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pejeng</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Penestanan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pesanggaran</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ban,_Kubu,_Karangasem</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Budakeling</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Buleleng_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ubud</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tenganan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Negara,_Bali</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bebandem</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Cengiling</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Semarapura</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Seririt_(town)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Jembrana_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Jimbaran</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Anggabaya</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Klungkung_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bedugul</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Amlapura</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Badung_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bangli_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Batuan,_Bali</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Seminyak</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Gianyar_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Singaraja</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tabanan_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tampaksiring</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Padangtegal</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Julah</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kemenuh</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Padangbai</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Candi_Dasa</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Canggu</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kronjo</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sindang_Jaya</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kelapa_Dua</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kosambi,_Tangerang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Serang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Serang_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Jakarta_metropolitan_area</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Cikupa</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ciledug</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pasarkemis</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pondok_Aren</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Benda,_Tangerang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pinang,_Tangerang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/South_Tangerang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tangerang_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Cipondoh</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pamulang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sepatan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Periuk</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Cisoka</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Curug,_Tangerang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Mauk,_Tangerang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Rangkasbitung</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Cisauk</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Mekarbaru</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tigaraksa</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sukadiri</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Jayanti,_Tangerang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Lebak_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sepatan_Timur</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sukamulya</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Larangan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pagedangan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Gunungkaler</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Batuceper</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Panongan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Solear</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pakuhaji</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kresek</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Cipanas,_Cipanas,_Lebak</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Cipanas,_Lebak</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Cilegon</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Cimandiri,_Banten</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kemiri,_Tangerang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tangerang,_Tangerang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Neglasari</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sindangratu,_Banten</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sogong,_Banten</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tambakbaya</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tanara</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tangerang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Teluknaga</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Karangtengah</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Balaraja</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ciputat</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pandeglang_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pontang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Jatiuwung</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Rajeg</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Carita_(Indonesia)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Cibodas</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Jambe,_Tangerang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Karawaci,_Tangerang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Legok</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kota_Raja</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kuta_(Lombok)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Raba,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pengenjek</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Woha,_Sumbawa</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bima</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bima_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Praya,_Lombok</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tanjung,_Lombok</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Belanting</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Central_Lombok_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Mataram_(city)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Selong</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Senggigi</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Mandalika_(resort_area)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tanak_Tepong</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Labuhan_Lombok</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Oi_Panihi</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/North_Lombok_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bayan,_Bayan,_North_Lombok</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/East_Lombok_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/West_Lombok_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/West_Sumbawa_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Gerung</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Taliwang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Dompu</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Dompu_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sumbawa_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kawinda_Toi</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pajo,_Dompu</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sumbawa_Besar</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sikur</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pasaman_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Payakumbuh</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pesisir_Selatan_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bukittinggi</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sungai_Durian,_Patamuan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sungai_Durian,_Payakumbuh</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sungai_Durian,_Solok</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Datah_Dian,_Kapuas_Hulu</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Dharmasraya_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/South_Solok_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Mentawai_Islands_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sawahlunto</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/West_Pasaman_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bonjol</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Agam_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Alahan_Panjang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Padang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Lima_Puluh_Kota_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tanah_Datar_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sijunjung_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Padang_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sikakap</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Solok</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Solok_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Padang_Panjang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Padang_Pariaman_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Painan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pariaman</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ulee_Geudong,_Sawang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sabang,_Aceh</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Salang,_Aceh</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sabet,_Aceh</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Teupah_Selatan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Simeulue_Tengah</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Teupah_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Southwest_Aceh_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Meulaboh</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Seumadu_Island</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Aceh_Besar_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Aceh_Jaya_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Aceh_Singkil_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Aceh_Tamiang_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bener,_Gayo_Lues</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bener_Meriah_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bireuën_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Central_Aceh_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Reklamasi_Pusong_Beach</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Southeast_Aceh_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Takengon</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Blang_Mangat</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Blangpidie</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Selamat_(Tenggulun)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Setia_(Aceh)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Arun_Lhokseumawe_Special_Economic_Zone</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Jantho</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Alaban</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Alafan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Gayo_Lues_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Simeulue_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Langsa</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ujong_Blang_Beach</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kuta_Raja</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Banda_Aceh</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Banda_Sakti</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/East_Aceh_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Muara_Dua</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/South_Aceh_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Lhoknga</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Lhokseumawe</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Nagan_Raya_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Gemboyah</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/West_Aceh_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pidie_Jaya_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Samalanga</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Simeulue_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Simeulue_Timur</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Teluk_Dalam,_Aceh</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ie_Meulee</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Muara_Satu</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Nicah_(Grong_Grong)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pidie_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tingkem</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Calang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/North_Aceh_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Subulussalam</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kepahiang_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Rejang_Lebong_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Manna_(city)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bengkulu_(city)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bungin_Tambun_I</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bungin_Tambun_II</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bungin_Tambun_III</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Lebong_Tandai</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Selebar</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Seluma_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Arga_Makmur</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Lebong_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Barhau</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Batu_Galing</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Mukomuko_city</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kaur_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kayaapu</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kebun_Gerand</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pekalongan_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Purworejo_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Wonopringgo</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Karanganyar,_Karanganyar</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Karanganyar,_Kebumen</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Karanganyar_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kebumen_(town)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kebumen_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kendal_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kudus_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pemalang_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Mandiraja,_Banjarnegara</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pasar_Kliwon,_Pasar_Kliwon,_Surakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pasar_Kliwon,_Surakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pekalongan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Wonosobo_(town)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Wonosobo_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Batang_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Butuh,_Purworejo</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tegal</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tegal_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Wonogiri_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ungaran</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Surakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Mungkid</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Purwodadi,_Purworejo</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Purwokerto</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Purworejo,_Purworejo</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Brebes,_Brebes</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Brebes_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Demak_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Cepu,_Blora</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Salatiga</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sampangan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Blora,_Blora</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Blora_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bokol,_Kemangkon,_Purbalingga</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Boyolali_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Brebes,_Brebes,_Brebes</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Semarang_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Semarang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Semarang_metropolitan_area</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sembungan,_Wonosobo_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Mandalika_Island</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Jepara</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Jepara_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pati_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Klaten_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kutoarjo,_Purworejo</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Purbalingga_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ambarawa</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Datar,_Cilacap</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bagelen,_Purworejo</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bakulan,_Kemangkon,_Purbalingga</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Banjarnegara_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Banyumas_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Banyuurip,_Purworejo</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bayan,_Purworejo</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Dukuhjati_Wetan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Temanggung_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sukoharjo_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Cikadu,_Pemalang_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Cilacap_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Gebang,_Purworejo</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Gombong</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Grabag,_Purworejo</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Magelang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Magelang_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sigedang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sijeruk</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sikunang,_Wonosobo_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kajen,_Pekalongan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Karanganom</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Karangsari,_Central_Java</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Karimunjawa</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Katekan,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kedungbanteng,_Tegal</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kemiri,_Purworejo</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kendal,_Kendal</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pituruh,_Purworejo</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tlagasana</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sragen_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kapuas_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Katingan_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kumai</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/West_Kotawaringin_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/North_Barito_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/South_Barito_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pulang_Pisau_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Seruyan_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Lamandau_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/East_Barito_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/East_Kotawaringin_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Murung_Raya_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Gunung_Mas_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kalimantan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sampit</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Palangka_Raya</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sukamara_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Banawa,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Banawa_Selatan,_Donggala</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Banawa_Tengah</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Banggai_Islands_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Banggai_Laut_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Banggai_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bungku</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Buol_(town)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Buol_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tolitoli_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tumbulawa</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Damsol</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ngapa,_Central_Sulawesi</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Poso</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Poso_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Palu</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Parigi_Moutong_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kolonodale</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ampana</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/North_Morowali_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/North_Poso_Kota</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Balaesang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Balaesang_Tanjung,_Donggala</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tojo_Una-Una_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sigi_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Luwuk</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sibualong</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tanjung_Batu,_Donggala_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Donggala_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Morowali_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pakasua</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Poso_Kota</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/South_Poso_Kota</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kulur,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Yaputih</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bula,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Piru,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tulehu</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Masohi</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bemu</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bengoi</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Central_Maluku_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Saumlaki</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Saunulu</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Southwest_Maluku_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/West_Seram_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Atiahu</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Loki,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Luhu,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tehoru</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ariate</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Larike</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Southeast_Maluku_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Amahai</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Namlea</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tanimbar_Islands_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Taniwel</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kairatu</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/South_Buru_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kao,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Galela_(city)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Morotai_Island_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pekaulang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sula_Islands_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ternate</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Central_Halmahera_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sanana</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/West_Halmahera_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Maba,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Patani,_North_Maluku</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Labuha</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tidore</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/North_Halmahera_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/East_Halmahera_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tobelo</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Soasiu</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sofifi</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Taliabu_Island_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/South_Halmahera_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Weda</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tolikara_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Upaga</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Upper_Tor_District</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kepi,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kimaam,_Merauke</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sarmi,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sarmi_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sela,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sentani,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Enarotali</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Erambu</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Mamberamo_Raya_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Mapia,_Dogiyai_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pegunungan_Bintang_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Wirini</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Yahukimo_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Yalimo_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Boven_Digoel_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Supiori_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Puncak_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tsinga</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Nduga_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Deiyai_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Dekai</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Timika</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Merauke</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Merauke_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Mimika_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Biak_Numfor_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Central_Mamberamo_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Uta,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Waropen_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Puncak_Jaya_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Mappi_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Wamena</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Wantem,_Papua</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Senggi_District</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Jayawijaya_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Agats</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ilaga,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Intan_Jaya_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Jayapura</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Jayapura_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kwenukweltimarogai</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Lanny_Jaya_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Amamapare</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Oklip</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Oksibil</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Oktem</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Omandesep</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Baidub</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bawe</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Umari,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tembagapura</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Nabire_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sota,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Guninggame</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tanahmerah</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Keerom_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kenyam</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Yapen_Islands_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Mokoni</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Otsjanep</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Paniai_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Suntamon</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kaimana_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Umnum</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Usti,_West_Papua</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Konda,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Koor,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Iraiweri</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Maniwak</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Manokwari</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Manokwari_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Teminabuan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Warmandi</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Yakorra</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Maybrat_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Minggot</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Waisai</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Abun_district</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bikar,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bintuni</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Mega,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Saukorem</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Fakfak</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Fakfak_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Waibeem</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Teluk_Wondama_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Werur</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Lobo,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Aredo</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Arfak_Mountains_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Fef,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kwoor</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Muturi</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Raja_Ampat_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Rawas</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sailolof</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sausapor</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Cigera</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sorong_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Greemakolo</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tambrauw_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Teluk_Bintuni_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Imbonggun</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Inanwatan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kaimana</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kalobo,_West_Papua</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Mogoi</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Rasiei</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/South_Manokwari_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Suteibey</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tulang_Bawang_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pesawaran_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bandar_Lampung</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Dente_Teladas,_Tulang_Bawang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Menggala</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Mesuji_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Purbolinggo</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bengkunat</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Central_Lampung_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Metro_(city)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Way_Kanan_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/West_Lampung_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/West_Pesisir_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/West_Tulang_Bawang_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Rawajitu_Selatan,_Tulang_Bawang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Banjar_Agung,_Tulang_Bawang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Banjar_Baru,_Tulang_Bawang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Banjar_Margo,_Tulang_Bawang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/East_Lampung_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/East_Menggala,_Tulang_Bawang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/East_Rawajitu,_Tulang_Bawang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/North_Lampung_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Gedung_Aji,_Tulang_Bawang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Gedung_Meneng,_Tulang_Bawang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tanggamus_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pringsewu_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ketapang,_South_Lampung</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/South_Lampung_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kampar_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bagansiapiapi</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sinaboi</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bengkalis_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Rokan_Hilir_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Indragiri_Hilir_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Indragiri_Hulu_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kuantan_Singingi_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Rengat</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bangkinang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Dumai</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pelalawan_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Siak_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Selat_Panjang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Teluk_Kuantan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pekanbaru</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Panipahan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Rokan_Hulu_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sungai_Guntung</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Meranti_Islands_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tanjung_Balai_Karimun</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bintan_Island</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bintan_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Daik</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Lingga_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ranai,_Natuna_Island</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Anambas_Islands_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Batam</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Natuna_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tanjungpinang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Karimun_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Malinau_Kota</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Malinau_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Nunukan_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bulungan_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Long_Apung</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Long_Berayang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tana_Tidung_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tanjung_Selor</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kotamobagu</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Manado</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Manado_metropolitan_area</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tomohon</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tahuna,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Melonguane</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Minahasa_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/North_Bolaang_Mongondow_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/South_Bolaang_Mongondow_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Salili</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sawangan,_Sulawesi</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bitung</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bolaang_Mongondow_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Airmadidi</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Dumara,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sangihe_Islands_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/East_Bolaang_Mongondow_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/North_Minahasa_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Balang,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Southeast_Minahasa_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sitaro_Islands_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Talaud_Islands_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/South_Minahasa_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Karo_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Raya,_Simalungun</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Salak,_North_Sumatra</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pematangsiantar</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Asahan_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/North_Tapanuli_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/South_Tapanuli_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tanjungbalai_(city)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tebing_Tinggi</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Langkat_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Samosir_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/North_Padang_Lawas_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Toba_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Mandailing_Natal_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Nias_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Medan_metropolitan_area</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Batubara_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kesawan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Dairi_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Deli_Serdang_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Binjai</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Central_Tapanuli_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Medan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Salapian</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Humbang_Hasundutan_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bohorok</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sei_Bingai</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sei_Mangkei_Special_Economic_Zone</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/West_Nias_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pakpak_Bharat_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Arse,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Huta_raja,_Mandailing_Raja</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Padang_Lawas_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Serdang_Bedagai_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kisaran</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kuala</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Labuhan_Batu_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Rantau_Prapat</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/North_Nias_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Berastagi</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Simalungun_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Gunungsitoli</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sibolga</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Padangsidempuan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pagar_Gunung,_Mandailing_Natal</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pangururan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Stabat</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/South_Labuhan_Batu_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Parapat</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/North_Labuhan_Batu_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kampung_Madras</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Manggar</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Payung,_South_Bangka</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bangka_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pangkal_Pinang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tukak_Sadai</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Toboali</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Belinyu</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Belitung_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Central_Bangka_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/West_Bangka_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sungailiat</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Air_Gegas</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tanjung_Pandan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/East_Belitung_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/South_Bangka_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sungai_Selan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Mojokerto</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Jombang,_Jombang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Jombang_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kapas,_Bojonegoro</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kediri_(city)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kediri_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sampang_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Surabaya</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pasuruan_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Mantingan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Margomulyo,_Bojonegoro</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pasuruan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Wonokromo</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Wonotoro</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Batu,_East_Java</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Blitar</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Blitar_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Trenggalek_(district)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Trenggalek_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tretes</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tulungagung_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ngawi_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Cemoro_Lawang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Modo,_Lamongan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Waru,_Sidoarjo</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Situbondo_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sambikerep</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sampang_(city)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sarangan,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Probolinggo_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Jogorogo</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Blimbing,_Malang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bojonegoro,_Bojonegoro</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bojonegoro_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bondowoso_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Segoro_Puro</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Gesang_(village)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Malang_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Java_Integrated_Industrial_and_Port_Estate</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Jember_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Klojen</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kraksaan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Lamongan_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Lawang,_Malang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Rejoso,_Pasuruan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Eastern_salient_of_Java</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ampel</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bangil</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bangkalan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bangkalan_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Banyuwangi_(town)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Banyuwangi_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Baron_District</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tuban_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Licin</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Probolinggo</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Gayam,_Bojonegoro</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Nganjuk_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pamekasan_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Glenmore,_Banyuwangi</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Greater_Malang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Gresik_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Gubeng,_Gubeng,_Surabaya</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Lowokwaru</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Lumajang_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Madiun</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Madiun_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Magetan_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sidoarjo_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Slateng</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kanor,_Bojonegoro</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kedungkandang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sumenep_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Mojokerto_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ngadas</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pacitan_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pamekasan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Panarukan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Podokoyo</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ponorogo_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Porong</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sukun,_Malang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sumbermujur</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Surabaya_metropolitan_area</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Keputran</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tambaksari</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Manggar,_Balikpapan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Manggar_Baru,_Balikpapan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Penajam_North_Paser_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Balikpapan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Berau_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Penajam</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Teritip,_Balikpapan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Muara_Satui</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Samarinda</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/West_Balikpapan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bontang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Paser_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kutai_Kartanegara_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Lamaru,_Balikpapan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/East_Balikpapan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/East_Kutai_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/West_Kutai_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Mahakam_Ulu_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Alor_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Komodo,_West_Manggarai</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Komodo_(village)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Labuan_Bajo</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Manggarai_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ruteng</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/West_Savu</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ba&#39;a</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Belu_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Maumere</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Maunura</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Raifatus,_East_Nusa_Tenggara</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Betun,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Central_Sumba_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Puntaru</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kefamenanu</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tambolaka</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Waingapu</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Atambua</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Atapupu</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Malaka_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Jaong,_East_Nusa_Tenggara</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ende,_East_Nusa_Tenggara</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ende_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kupang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kupang_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Landu_Leko</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Larantuka</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Lembata_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/South_Central_Timor_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/North_Central_Timor_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bajawa</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/East_Flores_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/East_Manggarai_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/East_Sumba_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/West_Timor</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Waikabubak</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Lewoleba</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Nagekeo_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Rote_Ndao_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Soe,_Timor</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/West_Manggarai_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Halilulik</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Waibakul</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Lungar,_East_Nusa_Tenggara</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sikka_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tarung</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kalabahi</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/West_Sumba_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Nelelamadike</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ngada_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sabu_Raijua_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Southwest_Sumba_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Raha,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Baubau</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Buton_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Muna_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/West_Muna_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Central_Buton_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Wakatobi_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Walasiho</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bombana_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kolaka_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Konawe_Islands_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Konawe_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/North_Buton_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/North_Kolaka_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/North_Konawe_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/East_Kolaka_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kendari</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ngapa,_Southeast_Sulawesi</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/South_Buton_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/South_Konawe_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/North_Kayong_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kapuas_Hulu_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kubu_Raya_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sambas_(town)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sambas_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pontianak</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sukadana</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Melawi_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Mempawah_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Putussibau</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bengkayang_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sanggau_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Landak_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sekadau_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sintang_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ketapang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ketapang_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Singkawang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/North_Gorontalo_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Saronde_Island</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bone_Bolango_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Atinggola</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Gorontalo_(city)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Gorontalo_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Boalemo_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pohuwato_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Popayato</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Poncosari</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kotagede</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Wonosari</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bantul_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tepus_District</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Gunung_Kidul_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ngande_-_Ande</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kulon_Progo_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Siung_Beach</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sleman_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Yogyakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kecamatan_Tepus</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kelurahan_Purwodadi</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pasangkayu_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Polewali_Mandar_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Central_Mamuju_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sampaga</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Mamasa_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Mamuju_(city)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Mamuju_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Majene_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Polewali</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pagar_Alam</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Lahat_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Penukal_Abab_Lematang_Ilir_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Empat_Lawang_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Musi_Banyuasin_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Prabumulih</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Muara_Enim_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Baturaja</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/East_Ogan_Komering_Ulu_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ogan_Ilir_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ogan_Komering_Ilir_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ogan_Komering_Ulu_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Palembang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/South_Ogan_Komering_Ulu_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Lahat_(town)</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/North_Musi_Rawas_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Banyuasin_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Musi_Rawas_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Lubuklinggau</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kayu_Agung,_South_Sumatra</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Palembang_metropolitan_area</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/North_Hulu_Sungai_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Balangan_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Banjar_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Barito_Kuala_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sungai_Durian,_Kotabaru</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sungai_Durian,_Tabalong</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tanjung,_Tabalong</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tapin_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kotabaru_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tanah_Bumbu_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Central_Hulu_Sungai_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tanah_Laut_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kota_Pagatan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Banjarbaru</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Banjarmasin</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bantuil,_Cerbon,_Barito_Kuala</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Barabai</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tabalong_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kandangan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/South_Hulu_Sungai_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Ujunglero</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Selayar_Islands_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pepandungan</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Takalar_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Benteng,_Selayar_Islands</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bone_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bantaeng_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Parepare</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Soppeng_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Masamba</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Wajo_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Barru_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Watansoppeng</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bonto_Bulaeng</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bonto_Lojong,_Bantaeng</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bonto_Marannu,_Bantaeng</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bonto_Tangnga,_Bantaeng</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bontobahari</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Borimasunggu</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/North_Luwu_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Jeneponto_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Maiwa,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Malino,_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Enrekang_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Larompong</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Latimojong,_Enrekang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pinrang_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Rappang</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/East_Luwu_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Bulukumba_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Barru</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/North_Toraja_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Soroako</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Gowa_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Luwu_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sinjai_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tana_Toa</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Kanreapia</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Palopo</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pangkajene_and_Islands_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Pitumpanua</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Sidenreng_Rappang_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Somba_Opu,_Gowa</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Maros_Regency</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Tana_Toraja_Regency</uri></binding>
+  </result>
+ </results>
+</sparql>

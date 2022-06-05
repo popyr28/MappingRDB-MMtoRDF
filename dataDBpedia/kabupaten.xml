@@ -1,0 +1,1375 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="a"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Aceh_Besar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Aceh_Jaya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Aceh_Singkil</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Aceh_Tamiang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Agam</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Alor</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kepulauan_Aru</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Asahan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Asmat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Badung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Balangan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Balikpapan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bandung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Banggai_Kepulauan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bangkalan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bangka</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bangli</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Banjarbaru</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Banjarnegara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Banjar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Banjar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bantaeng</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bantul</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Banyuasin</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Banyumas</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Banyuwangi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Barito_Kuala</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Barru</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Batanghari</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Batang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Batu_Bara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Batu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Bau-Bau</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bekasi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Belitung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Belu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bener_Meriah</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bengkalis</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bengkayang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Berau</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Biak_Numfor</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bima</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Binjai</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bintan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bireuen</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Bitung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Blora</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Boalemo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bogor</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bojonegoro</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bombana</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bondowoso</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bone_Bolango</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bone</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Bontang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Boven_Digoel</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Boyolali</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Brebes</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bulukumba</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bulungan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bungo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Buton</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Aceh_Tengah</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bangka_Tengah</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bengkulu_Tengah</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Halmahera_Tengah</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Hulu_Sungai_Tengah</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Administrasi_Jakarta_Pusat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Lampung_Tengah</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Lombok_Tengah</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Maluku_Tengah</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Mamberamo_Tengah</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Sumba_Tengah</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Tapanuli_Tengah</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Ciamis</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Cianjur</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Cilacap</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Cimahi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Cirebon</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Dairi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Deiyai</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Deli_Serdang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Demak</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Dharmasraya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Dogiyai</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Dompu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Donggala</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Dumai</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Aceh_Timur</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Barito_Timur</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Belitung_Timur</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Flores_Timur</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Halmahera_Timur</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Administrasi_Jakarta_Timur</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kotawaringin_Timur</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kutai_Timur</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Lampung_Timur</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Lombok_Timur</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Luwu_Timur</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Manggarai_Timur</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Ogan_Komering_Ulu_Timur</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Sumba_Timur</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Tanjung_Jabung_Timur</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Empat_Lawang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Ende</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Enrekang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Fakfak</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Gayo_Lues</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Gianyar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Gorontalo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Gowa</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Grobogan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Gunung_Mas</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Gunungsitoli</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Humbang_Hasundutan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Indragiri_Hilir</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Indragiri_Hulu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Intan_Jaya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Jayapura</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Jayawijaya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Jember</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Jembrana</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Jeneponto</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Jepara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Jombang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kaimana</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kampar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kapuas_Hulu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kapuas</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Karanganyar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Karangasem</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Karawang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Karo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Katingan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kaur</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kebumen</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Kediri</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kediri</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Keerom</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kendal</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kepahiang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kepulauan_Meranti</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kerinci</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Ketapang,_Ketapang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Ketapang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Klaten</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Klungkung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kolaka</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kotabaru</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Kotamobagu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kuantan_Singingi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kubu_Raya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kudus</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kulon_Progo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kuningan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kupang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kutai_Kartanegara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Labuhanbatu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Lahat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Lamandau</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Lamongan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Landak</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Langkat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Langsa</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Lanny_Jaya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Lebak</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Lebong</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Lembata</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Lima_Puluh_Kota</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Madiun</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Magelang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Magelang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Magetan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Majalengka</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Majene</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Malang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Malang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Malinau</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Mamasa</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Mamberamo_Raya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Mamuju</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Mandailing_Natal</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Manggarai</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Manokwari</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Mappi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Melawi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kepulauan_Mentawai</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Merangin</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Merauke</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Mesuji</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Mimika</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Mojokerto</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Pulau_Morotai</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Morowali</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Muara_Enim</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Muaro_Jambi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Mukomuko</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Muna</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Murung_Raya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Musi_Banyuasin</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Musi_Rawas</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Nabire</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Nagan_Raya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Nagekeo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Natuna</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Nduga</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Ngada</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Nganjuk</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Ngawi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Nias</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Aceh_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Barito_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bengkulu_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Buton_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Timor_Tengah_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Gorontalo_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Halmahera_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Hulu_Sungai_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Administrasi_Jakarta_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Labuhanbatu_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Lampung_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Lombok_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Mamuju_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Nias_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Padang_Lawas_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Penajam_Paser_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Tapanuli_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Toraja_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Nunukan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Ogan_Ilir</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Ogan_Komering_Ilir</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Ogan_Komering_Ulu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Pacitan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Padang_Lawas</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Padang_Pariaman</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Pakpak_Bharat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Palopo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Pamekasan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Pandeglang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Paniai</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Parigi_Moutong</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Pasaman</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Paser</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Pasuruan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Pati</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Pegunungan_Bintang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Pekalongan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Pekalongan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Pelalawan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Pemalang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Pesawaran</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Pidie_Jaya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Pidie</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Pinrang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Pohuwato</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Polewali_Mandar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Pontianak</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Poso</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Prabumulih</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Probolinggo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Probolinggo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Pulang_Pisau</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Puncak_Jaya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Puncak</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Purbalingga</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Purwakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Purworejo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Rejang_Lebong</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Rembang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Rokan_Hilir</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Rokan_Hulu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Sabu_Raijua</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Salatiga</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Sambas</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Samosir</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Sampang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Sanggau</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kepulauan_Sangihe</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Sarmi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Sarolangun</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Sekadau</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Seluma</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Semarang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Serang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Serdang_Bedagai</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Seruyan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Siak</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Sidoarjo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Sigi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Sijunjung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Sikka</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Simalungun</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Simeulue</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Singkawang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Sintang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kepulauan_Siau_Tagulandang_Biaro</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Situbondo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Sleman</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Solok</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Soppeng</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Sorong</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Aceh_Selatan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bangka_Selatan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Barito_Selatan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bengkulu_Selatan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Timor_Tengah_Selatan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Aceh_Tenggara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Maluku_Tenggara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Halmahera_Selatan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Hulu_Sungai_Selatan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Administrasi_Jakarta_Selatan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Labuhanbatu_Selatan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Lampung_Selatan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Nias_Selatan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Ogan_Komering_Ulu_Selatan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Pesisir_Selatan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Solok_Selatan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Sorong_Selatan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Tapanuli_Selatan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Aceh_Barat_Daya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Maluku_Barat_Daya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Sumba_Barat_Daya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Sragen</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Subang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Subulussalam</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Sukabumi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Sukamara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Sukoharjo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kepulauan_Sula</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Sumbawa</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Sumedang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Sungaipenuh</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Supiori</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Tabalong</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Tabanan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kepulauan_Talaud</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Tambrauw</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Tanah_Bumbu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Tanah_Datar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Tanah_Laut</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Tana_Tidung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Tana_Toraja</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Tangerang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Tanggamus</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Tapin</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Tasikmalaya</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Tebing_Tinggi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Tebo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Tegal</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Tegal</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Teluk_Bintuni</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Teluk_Wondama</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Temanggung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Ternate</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Tidore_Kepulauan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Toba_Samosir</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Tojo_Una-una</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Tolikara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Tolitoli</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Tomohon</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Trenggalek</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Tuban</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Tulang_Bawang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Tulungagung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Wajo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Waropen</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Way_Kanan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Aceh_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bangka_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Maluku_Tenggara_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Halmahera_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Administrasi_Jakarta_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kotawaringin_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kutai_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Lampung_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Lombok_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Manggarai_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Nias_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Pasaman_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Sumba_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Sumbawa_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Tanjung_Jabung_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Tulang_Bawang_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Wonogiri</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Wonosobo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Yahukimo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Yalimo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kepulauan_Yapen</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Garut</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Indramayu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Gresik</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Lumajang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Madiun</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Mojokerto</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Pasuruan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Gunung_Kidul</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Buleleng</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bolaang_Mongondow</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Luwu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Maros</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Pangkajene_dan_Kepulauan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Sidenreng_Rappang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Sinjai</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Takalar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Banggai</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Minahasa</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Administrasi_Kepulauan_Seribu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Karimun</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Tarakan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Minahasa_Selatan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Pematangsiantar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Minahasa_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Konawe</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Lingga</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Luwu_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kolaka_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Konawe_Selatan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Wakatobi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Buol</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Buru</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Seram_Bagian_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Seram_Bagian_Timur</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Raja_Ampat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bolaang_Mongondow_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bandung_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Minahasa_Tenggara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kayong_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Konawe_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Tual</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Balohan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kepulauan_Anambas</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bolaang_Mongondow_Timur</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Bolaang_Mongondow_Selatan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Buru_Selatan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Pringsewu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Maybrat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Covalima</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Sulaa,_Betoambari,_Bau-Bau</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Pangandaran</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Pesisir_Barat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Mahakam_Ulu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Penukal_Abab_Lematang_Ilir</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Malaka</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Pulau_Taliabu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Mamuju_Tengah</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Banggai_Laut</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Kolaka_Timur</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Laboratorium_Lingkungan_Kota_Bitung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Siulak,_Kerinci</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Manokwari_Selatan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Pegunungan_Arfak</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Morowali_Utara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Konawe_Kepulauan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kota_Mukomuko_,_Mukomuko</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Lombok_Timur</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Kabupaten_Langkat</uri></binding>
+  </result>
+ </results>
+</sparql>

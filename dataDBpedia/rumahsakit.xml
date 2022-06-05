@@ -1,0 +1,217 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="a"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Dr._Kariadi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Mount_Elizabeth</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Dr._Cipto_Mangunkusumo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Dr._Mohammad_Hoesin</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Umum_Muhammadiyah_Roemani</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Pondok_Indah</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Penyakit_Infeksi_Prof._Dr._Sulianti_Saroso</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_dr._Soedjono</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_TK_II_Dr._AK_Gani</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Siloam_Hospitals_West_Jakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Umum_Panti_Rapih</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Umum_Wonogiri</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Umum_Pusat_Dr_Sardjito</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Medistra</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Umum_Mary_Cileungsi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Sint_Carolus</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Dr._Oen_Surakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Persahabatan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Katolik_St._Vincentius_A_Paulo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Ibu_dan_Anak_Graha_Permata_Ibu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/RSU_Cibabat</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Omni_Internasional</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Panti_Nirmala</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Gunung_Wenang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Dharmais</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/RSUD_dr._H._Soemarno_Sosroatmodjo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_PGI_Cikini</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Yayasan_Jantung_Indonesia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Advent_Medan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Umum_Daerah_Dr._Rasidin</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/RSUD_Kabupaten_Sumedang</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Eka_Hospital</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Umum_Dr._M._Djamil</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Tentara_Dr._Reksodiwiryo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Siloam</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Umum_Daerah_Wakatobi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Dr.Soetomo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Advent_Bandar_Lampung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/RS_PKU_Muhammadiyah_Yogyakarta</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Suaka_Insan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Dr._Wahidin_Sudirohusodo</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Awal_Bros_Makassar</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Sanglah</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/RS_PKU_Muhammadiyah_Temanggung</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/RSIA_Muhammadiyah_Taman_Puring</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Umum_Daerah_Sawahlunto</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Umum_Daerah_Embung_Fatimah</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Awal_Bros</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Budi_Kemuliaan</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Otorita_Batam</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Santa_Elisabeth</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/RS_Ibnu_Shina_Gresik</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/RSJD_Sambang_Lihum</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Umum_Daerah_Ulin</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Umum_Daerah_Dr._H._M._Ansari_Saleh</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Umum_Daerah_Dr.H.M.Ansyari_Saleh</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/RSUD_H.Abdul_Aziz</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/RS_PKU_Muhammadiyah_Mayong</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/RSUD_Tanah_Bumbu</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Umum_Sari_Mulia</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Islam</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Khusus_Bedah_Siaga</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/RSUD_Ratu_Zalecha</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Umum_Daerah_Kelet</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Umum_Daerah_R.A._Kartini</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Islam_Sultan_Hadlirin</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Graha_Husada_Jepara</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Aulia_Medica</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Ibu_Anak_Kumala_Siwi</uri></binding>
+  </result>
+  <result>
+   <binding name="a"><uri>http://id.dbpedia.org/resource/Rumah_Sakit_Kusta_Donorojo</uri></binding>
+  </result>
+ </results>
+</sparql>
