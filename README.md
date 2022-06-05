@@ -1,5 +1,5 @@
 # MappingRDB-MMtoRDF
-Main code algorithm to mapping Relational Database (RDB) and Multimedia data into Resource Description Framework (RDF) which is a format that have been used by Knowledge Graph. The algorithm using Direct Mapping method in Mapping and Wu Palmer Similarity method in Matching similarity. The multimedia data come from any URL address that contain file pdf and photo. From that URL, it will be retrieved and get a list of URL address photos and files pdf. Then, by using an algorithm, it will retrieves some metadata from the photos and files.
+Main code algorithm in my Thesis to mapping Relational Database (RDB) and Multimedia data into Resource Description Framework (RDF) which is a format that have been used by Knowledge Graph. The algorithm using Direct Mapping method in Mapping and Wu Palmer Similarity method in Matching similarity. The multimedia data come from any URL address that contain file pdf and photo. From that URL, it will be retrieved and get a list of URL address photos and files pdf. Then, by using an algorithm, it will retrieves some metadata from the photos and files.
 # Example
 Suppose we have database in PostgreSQL and several URL address that we want transform into RDF.
 1. Connect the database in the dbConn.py
