@@ -9,5 +9,4 @@ Suppose we have database in PostgreSQL and several URL address that we want tran
 This algorithm also can be use if we want to mapping only RDB to RDF. Just connect the database and run the RDB2RDF.py
 
 # Visualization several data
-![graphrdb](https://user-images.githubusercontent.com/52410764/172584996-f631feca-be4b-4fc9-9acf-6faa8261221f.png)
-![graphdm](https://user-images.githubusercontent.com/52410764/172585033-7acf1567-1635-4d99-b533-010b124372be.png)
+![image](https://user-images.githubusercontent.com/52410764/172585486-2255291a-51d9-4e69-8ec9-e7a3e9644196.png)
